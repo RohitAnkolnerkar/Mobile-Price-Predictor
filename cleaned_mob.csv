@@ -1,0 +1,1216 @@
+,Name,Rating,Spec_score,Ram,Battery,Display,Price,company,Inbuilt_memory,fast_charging,Processor_name,Front_camera,Back_camera
+0,Samsung Galaxy F14 5G,4.65,68,4,6000,6.6,9999,Samsung,128,25,Exynos 1330 Octa Core Processor,13,50
+1,Samsung Galaxy A11,4.2,63,2,4000,6.4,9990,Samsung,32,15,Octa Core 1.8 GHz Processor,8,13
+2,Samsung Galaxy A13,4.3,75,4,5000,6.6,11999,Samsung,64,25,Octa Core 2 GHz Processor,8,50
+3,Samsung Galaxy F23,4.1,73,4,6000,6.4,11999,Samsung,64,52,Helio G88 Octa Core,13,48
+4,Samsung Galaxy A03s ,4.1,69,4,5000,6.5,11999,Samsung,64,15,Helio P35 Octa Core,5,13
+5,Samsung Galaxy M13 5G,4.4,75,6,5000,6.5,11990,Samsung,128,15,Dimensity 700 Octa Core,5,50
+6,Samsung Galaxy M21 2021,4.1,76,4,6000,6.4,11990,Samsung,64,15,Exynos 9611 Octa Core,20,48
+7,Samsung Galaxy A12,4.1,71,4,5000,6.5,11990,Samsung,64,15,Helio P35 Octa Core,8,48
+8,Samsung Galaxy A14 5G,4.05,75,4,5000,6.6,11599,Samsung,64,15,Exynos 1330 Octa Core,13,50
+9,Samsung Galaxy M13,4.5,75,6,6000,6.6,12298,Samsung,128,15,Exynos  850 Octa Core,8,50
+10,Samsung Galaxy F34 5G ,4.25,85,8,6000,6.5,14999,Samsung,128,25,Exynos 1280 Octa Core,13,50
+11,Samsung Galaxy F24 5G,4.4,78,4,5000,6.6,14999,Samsung,128,25,Snapdragon 695 Octa Core,8,50
+12,Samsung Galaxy F13,4.05,72,4,6000,6.6,14999,Samsung,64,15,Exynos 850 Octa Core,8,50
+13,Samsung Galaxy M23,4.4,75,4,5000,6.4,14999,Samsung,128,18,Helio G88 Octa Core,13,48
+14,Samsung Galaxy M12 ,4.05,75,6,6000,6.5,14999,Samsung,128,15,Exynos  850 Octa Core,8,48
+15,Samsung Galaxy A41,4.1,74,4,3500,6.1,14999,Samsung,64,52,Helio P65 Octa Core,25,48
+17,Samsung Galaxy F14,4.75,75,4,5000,6.7,14990,Samsung,128,25,Snapdragon 680 Octa Core,13,50
+18,Samsung Galaxy A14 5G ,4.75,79,6,5000,6.6,14949,Samsung,128,15,Exynos 1330 Octa Core,13,50
+19,Samsung Galaxy A32,4.3,80,6,5000,6.4,19999,Samsung,128,15,Helio G80 Octa Core,20,64
+20,Samsung Galaxy F41,4.2,80,6,6000,6.4,19999,Samsung,64,15,Exynos 9611 Octa Core,32,64
+21,Samsung Galaxy Wide 4,4.2,62,4,3500,6.21,19990,Samsung,64,52,Samsung Exynos 7884 Octa Core,16,13
+23,Samsung Galaxy A22,4.1,76,6,5000,6.4,19799,Samsung,128,15,Helio G80 Octa Core,13,48
+24,Samsung Galaxy A15 5G,4.75,81,8,5000,6.5,19499,Samsung,128,25,Dimensity 6100 Plus Octa Core,13,50
+25,Samsung Galaxy A23 5G ,4.15,81,8,5000,6.6,18999,Samsung,128,25,Snapdragon 695 Octa Core,8,50
+26,Samsung Galaxy F43 5G,4.4,79,6,4500,6.6,18999,Samsung,128,18,Dimensity 700 5G Octa Core,8,50
+28,Samsung Galaxy A32 ,4.4,82,8,5000,6.4,18990,Samsung,128,15,Helio G80 Octa Core,20,64
+29,Samsung Galaxy A23 ,4.15,82,8,5000,6.6,20999,Samsung,128,25,Snapdragon  680 Octa Core,8,50
+30,Samsung Galaxy S21 FE ,4.35,87,8,4500,6.4,29999,Samsung,256,25,Snapdragon 888 Octa Core,32,12
+31,Samsung Galaxy A35 5G ,4.25,86,8,5000,6.6,29999,Samsung,256,25,Exynos 1380 Octa Core,13,50
+33,Samsung Galaxy M35 5G,4.3,85,8,6000,6.6,29999,Samsung,128,25,Exynos 1380 Octa Core,13,50
+34,Samsung Galaxy A51 5G,4.25,84,6,4500,6.5,29999,Samsung,128,15,Exynos 980 Octa Core,32,48
+35,Samsung Galaxy M44 5G,4.15,83,6,5000,6.58,29999,Samsung,128,25,Snapdragon 888 Octa Core,13,50
+36,Samsung Galaxy A53 ,4.2,89,8,5000,6.5,28990,Samsung,256,25,Exynos 1280 Octa Core,32,64
+37,Samsung Galaxy A71,4.5,86,8,4500,6.7,28990,Samsung,128,25,Snapdragon 730 Octa Core,32,64
+38,Samsung Galaxy A70s ,4.45,83,8,4500,6.7,30500,Samsung,128,25,Snapdragon 675 Octa Core,32,64
+39,Samsung Galaxy M55 ,4.75,88,12,5000,6.67,30999,Samsung,256,45,Snapdragon 7 Gen1 Octa Core,50,50
+40,Samsung Galaxy A72 5G,4.25,86,8,4500,6.7,39999,Samsung,128,25,Snapdragon 750G Octa Core,32,64
+41,Samsung Galaxy A82 5G,4.35,86,6,4500,6.71,39990,Samsung,128,25,Snapdragon 855+ Octa Core,10,64
+42,Samsung Galaxy A83 5G,4.1,86,6,4500,6.71,39990,Samsung,128,25,Snapdragon 870 Octa Core,10,64
+44,Samsung Galaxy A55 5G ,4.6,89,8,5000,6.6,38900,Samsung,256,25,Exynos 1480 Octa Core,32,50
+46,Samsung Galaxy M54 5G,4.0,87,8,6000,6.7,37999,Samsung,128,25,Exynos 1380 Octa Core,32,108
+47,Samsung Galaxy A72 ,4.1,88,8,5000,6.7,37999,Samsung,256,25,Snapdragon  720G  Octa Core,32,64
+48,Samsung Galaxy XCover 6 Pro,4.55,83,6,4050,6.6,37999,Samsung,128,25,Snapdragon 778g Octa Core,13,50
+49,Samsung Galaxy A55 5G ,4.15,89,12,5000,6.6,41289,Samsung,256,25,Exynos 1480 Octa Core,32,50
+50,Samsung Galaxy S23 FE 5G ,4.0,87,8,4500,6.4,41790,Samsung,256,25,Exynos 2200 Octa Core,10,50
+51,Samsung Galaxy A76,4.75,91,8,5000,6.78,42990,Samsung,128,45,Snapdragon 7+ Gen2 Octa Core,32,108
+52,Samsung Galaxy A74 5G,4.55,90,8,5000,6.7,42999,Samsung,128,33,Snapdragon 7 Gen1 Octa Core,32,108
+53,Samsung Galaxy S23 5G,4.2,88,8,3900,6.1,49999,Samsung,128,25,Snapdragon 8 Gen 2 Octa Core,12,50
+54,Samsung Galaxy Note 10 Plus,4.5,89,12,4300,6.8,49999,Samsung,256,45,Exynos 9825 Octa Core,10,12
+57,Samsung Galaxy S21 Plus,4.0,88,8,4800,6.7,49000,Samsung,128,25,Exynos 2100 Octa Core,10,64
+59,Samsung Galaxy A75 5G,4.05,83,8,5000,6.7,44999,Samsung,128,67,Snapdragon 778G+ Octa Core Processor,32,108
+60,Samsung Galaxy A73 5G,4.0,89,8,5000,6.7,44999,Samsung,128,25,Snapdragon 778G Octa Core,32,108
+61,Samsung Galaxy Xcover Pro 2,4.55,79,4,4500,6.56,44990,Samsung,64,25,Exynos 1280 Octa Core,13,25
+62,Samsung Galaxy S22 FE 5G,4.75,79,8,4200,6.4,51999,Samsung,128,33,Exynos 2300 Octa Core Processor,32,12
+63,Samsung Galaxy Note 30 5G,4.35,88,8,4200,6.7,54990,Samsung,256,67,Snapdragon 8+ Gen1 Octa Core,16,50
+64,Samsung Galaxy S23 ,4.0,88,8,3900,6.1,54999,Samsung,256,25,Snapdragon 8 Gen 2 Octa Core,12,50
+67,Samsung Galaxy S22 Plus 5G,4.35,87,8,4500,6.6,59999,Samsung,128,45,Snapdragon  8 Gen1 Octa Core,10,50
+68,Samsung Galaxy S20 FE,4.2,86,8,4500,6.5,59999,Samsung,128,25,Exynos 990 Octa Core,32,12
+69,Samsung Galaxy A90 5G,4.5,88,6,4500,6.7,57990,Samsung,128,25,Snapdragon 855 Octa Core,32,48
+73,Samsung Galaxy S21 FE ,4.1,86,8,4500,6.4,69999,Samsung,128,25,Snapdragon 888 Octa Core,32,12
+74,Samsung Galaxy S21,4.05,88,8,4000,6.2,69999,Samsung,128,25,Exynos  2100 Octa Core,10,64
+82,Samsung Galaxy S24 Ultra ,4.6,96,12,5000,6.8,159999,Samsung,1,45,Snapdragon 8 Gen3 Octa Core,12,200
+86,Samsung Galaxy S24 Ultra ,4.3,95,12,5000,6.8,139999,Samsung,512,45,Snapdragon 8 Gen3 Octa Core,12,200
+87,Samsung Galaxy S22 Ultra 5G,4.6,93,12,5000,6.8,130376,Samsung,256,45,Snapdragon  8 Gen1 Octa Core,40,108
+88,Samsung Galaxy S24 Ultra,4.35,95,12,5000,6.8,129999,Samsung,256,45,Snapdragon 8 Gen3 Octa Core,12,200
+89,Vivo Y03,4.0,65,4,5000,6.56,6990,Vivo,64,15,Helio G85 Octa Core,5,13
+90,Vivo Y91,4.45,59,2,4030,6.22,6999,Vivo,32,52,Helio P22 Octa Core,8,13
+91,Vivo Y25,4.0,42,1,1900,4.5,7499,Vivo,16,52,Helio MT6580 Quad Core,2,5
+92,Vivo Y18e,4.1,67,4,5000,6.56,7999,Vivo,64,15,Helio G85 Octa Core,5,13
+93,Vivo Y01A,4.35,60,2,5000,6.51,8033,Vivo,32,10,Helio P35 Octa Core,5,8
+94,Vivo Y91c,4.2,59,2,4030,6.22,8199,Vivo,32,52,Helio P22 Octa Core,5,13
+95,Vivo Y01,4.3,61,2,5000,6.51,8490,Vivo,32,52,Helio P35 Octa Core,5,8
+96,Vivo Y18 ,4.1,72,4,5000,6.56,9999,Vivo,128,15,Helio G85 Octa Core,8,50
+97,Vivo Y16 ,4.25,69,4,5000,6.51,9999,Vivo,128,10,Helio P35 Octa Core,5,13
+98,Vivo Y12a,4.5,65,3,5000,6.51,9999,Vivo,32,52,Snapdragon  439  Octa Core,8,13
+99,Vivo Y02,4.35,54,3,5000,6.51,9999,Vivo,32,10,Helio Octa Core Processor,5,8
+100,Vivo Y16 ,4.0,66,3,5000,6.51,9999,Vivo,64,10,Helio P35 Octa Core,5,13
+101,Vivo Y18s,4.65,75,6,5000,6.56,9990,Vivo,128,15,Helio G85 Octa Core,8,50
+102,Vivo U3,4.25,72,4,5000,6.53,9990,Vivo,64,18,Snapdragon  675 Octa Core,16,16
+103,Vivo Y12s 2021,4.3,65,3,5000,6.51,9990,Vivo,32,52,Snapdragon  439  Octa Core,8,13
+104,Vivo Y21 ,4.65,65,4,5000,6.5,9990,Vivo,64,52,Snapdragon 450 Octa Core,13,13
+105,Vivo Y17s,4.65,70,4,5000,6.56,9499,Vivo,64,15,Helio G85 Octa Core,8,50
+106,Vivo Y21 2021,4.05,69,4,5000,6.51,10199,Vivo,64,18,Helio P35 Octa Core,8,13
+107,Vivo Y17s ,4.25,72,4,5000,6.56,10499,Vivo,128,15,Helio G85 Octa Core,8,50
+108,Vivo Y11 2023,4.4,66,4,5000,6.51,10499,Vivo,128,18,Helio P35 Octa Core,5,8
+109,Vivo T2x 5G,4.3,75,4,5000,6.58,11999,Vivo,128,18,Dimensity 6020 Octa Core,8,50
+110,Vivo Y53t,4.7,67,4,6000,6.51,11999,Vivo,128,15,Dimensity 700 Octa Core,5,13
+111,Vivo T1x 4G,4.3,74,4,5000,6.58,11999,Vivo,64,18,Snapdragon 680 Octa Core,8,50
+112,Vivo U3 ,4.05,74,6,5000,6.53,11990,Vivo,64,18,Snapdragon  675 Octa Core,16,16
+113,Vivo Y12 ,4.6,68,3,5000,6.35,11990,Vivo,64,52,Helio  P22 Octa Core,8,13
+114,Vivo Y12 2023,4.7,71,6,5000,6.56,11990,Vivo,128,52,Helio G85 Octa Core,8,13
+115,Vivo Y12G ,4.35,68,3,5000,6.51,11990,Vivo,64,52,Snapdragon  439  Octa Core,8,13
+116,Vivo T1x ,4.4,75,4,5000,6.58,11899,Vivo,128,18,Snapdragon 680 Octa Core,8,50
+117,Vivo Y22,4.6,72,4,5000,6.55,11580,Vivo,64,18,Helio G70 Octa Core,8,50
+118,Vivo Y21T,3.95,74,4,5000,6.51,11490,Vivo,128,18,Snapdragon 680  Octa Core,8,50
+119,Vivo Y20i,4.0,67,3,5000,6.51,11490,Vivo,64,18,Snapdragon 460 Octa Core,8,13
+120,Vivo Y22 ,4.7,73,4,5000,6.55,11390,Vivo,128,18,Helio G70 Octa Core,8,50
+121,Vivo Y27 4G,4.1,75,6,5000,6.64,10999,Vivo,128,44,Helio G85 Octa Core,8,50
+122,Vivo Y55L,4.15,51,2,2650,5.2,12350,Vivo,16,52,Snapdragon 430 Octa Core,5,8
+123,Vivo Y10,4.5,64,4,5000,6.51,12490,Vivo,128,52,Helio P35 Octa Core,8,13
+124,Vivo Y10 T1 Version,4.3,63,4,5000,6.51,12490,Vivo,128,52,Helio  P70   Octa Core,8,13
+125,Vivo Y66,3.75,53,3,3000,5.5,15050,Vivo,32,52,Snapdragon MSM8937 Octa Core,16,13
+126,Vivo T3x 5G ,4.35,78,6,6000,6.72,14999,Vivo,128,44,Snapdragon 6 Gen1 Octa Core,8,50
+127,Vivo T2x 5G ,4.2,80,8,5000,6.58,14999,Vivo,128,18,Dimensity 6020 Octa Core,8,50
+128,Vivo Y22 ,4.35,75,6,5000,6.55,14999,Vivo,128,18,Helio G70 Octa Core,8,50
+129,Vivo Y33e 5G,4.15,71,4,5000,6.51,14999,Vivo,128,52,Dimensity 700 5G Octa Core,8,13
+130,Vivo Y52T,4.4,71,8,5000,6.51,14999,Vivo,128,18,Dimensity 700 Octa Core,8,13
+131,Vivo Y76s,4.4,74,6,4200,6.53,14999,Vivo,64,18,Helio P65 Octa Core,8,16
+132,Vivo T4x 5G,4.4,72,6,6000,6.78,14990,Vivo,128,44,Snapdragon 7 Gen2 Octa Core Processor,16,64
+133,Vivo Y56 5G ,4.3,78,4,5000,6.58,14990,Vivo,128,18,Dimensity 700 5G Octa Core,16,50
+134,Vivo Y22s,4.45,77,8,5000,6.55,14990,Vivo,128,18,Snapdragon 680 Octa Core,8,50
+135,Vivo Y21s,4.15,74,4,5000,6.51,14990,Vivo,128,18,Helio G80 Octa Core,8,50
+136,Vivo Y20G ,4.55,73,6,5000,6.51,14990,Vivo,128,18,Helio G80 Octa Core,8,13
+137,Vivo G2,4.5,70,4,5000,6.56,14990,Vivo,128,18,Dimensity 6020 Octa Core,5,13
+138,Vivo T3 5G,4.7,82,8,5000,6.67,19999,Vivo,128,44,Dimensity 7200 Octa Core,16,50
+139,Vivo Y200e 5G,4.25,79,6,5000,6.67,19999,Vivo,128,44,Snapdragon 4 Gen2 Octa Core,16,50
+140,Vivo V27 4G,4.1,80,8,4600,6.64,19990,Vivo,128,66,Helio Octa Core,16,50
+141,Vivo Y100 4G,4.35,78,8,4800,6.67,19990,Vivo,128,80,Snapdragon 685 Octa Core,8,50
+142,Vivo V30 Lite 4G,4.3,79,8,4800,6.67,19990,Vivo,128,80,Snapdragon 685 Octa Core,8,50
+143,Vivo Y76s 5G ,4.25,80,12,4100,6.58,19990,Vivo,256,44,Dimensity 700 5G Octa Core,8,50
+144,Vivo V25e,4.5,84,8,4500,6.44,19990,Vivo,256,44,Helio G99 Octa Core,32,64
+145,Vivo V30e ,4.75,86,8,5500,6.78,29999,Vivo,256,44,Snapdragon 6 Gen1 Octa Core,50,50
+146,Vivo V23 Pro 5G,3.9,85,8,4300,6.56,29999,Vivo,128,44,Dimensity 1200 Octa Core,50,108
+147,Vivo V21s,4.65,86,8,4000,6.44,29999,Vivo,128,33,Dimensity 800U  Octa Core,44,64
+148,Vivo S19,4.6,70,8,5000,6.78,29990,Vivo,256,100,Snapdragon Octa Core Processor,50,50
+149,Vivo V20 Pro,4.6,84,8,4000,6.44,29990,Vivo,128,33,Snapdragon 765G  Octa Core,44,64
+150,Vivo S16,4.1,85,8,4600,6.78,29990,Vivo,128,66,Snapdragon 870 Octa Core,50,64
+151,Vivo Y100t 5G,4.7,84,8,5000,6.64,29990,Vivo,256,120,Dimensity 8200 Octa Core,16,64
+152,Vivo V28e,4.1,73,8,5000,6.67,29990,Vivo,128,67,Dimensity 7200 Octa Core Processor,32,50
+153,Vivo V29,4.75,84,8,4600,6.78,29799,Vivo,128,80,Snapdragon 778G Octa Core,50,50
+154,Vivo V30 5G,4.0,84,8,5000,6.78,30739,Vivo,128,80,Snapdragon 7 Gen3 Octa Core,50,50
+155,Vivo V25 Pro ,4.35,86,12,4830,6.56,31398,Vivo,256,66,Dimensity 1300 Octa Core,32,64
+156,Vivo T3 Pro,4.15,87,8,4700,6.67,31990,Vivo,256,80,Snapdragon 782G Octa Core,32,64
+157,Vivo V29 Lite,4.45,81,8,5000,6.78,31990,Vivo,128,44,Snapdragon 695 Octa Core,16,64
+158,Vivo V27 Pro ,4.2,85,8,4600,6.78,39999,Vivo,256,66,Dimensity 8200 Octa Core,50,50
+159,Vivo S19 Pro,4.35,89,12,5000,6.82,39990,Vivo,256,80,Dimensity 9300 Octa Core,50,50
+160,Vivo V30 Lite,4.0,85,12,4800,6.67,39990,Vivo,256,44,Snapdragon 695 Octa Core,50,64
+161,Vivo V40 5G,4.35,89,8,5000,6.7,39990,Vivo,256,120,Dimensity 9200 Octa Core,50,108
+162,Vivo X100 Lite,4.4,84,8,5000,6.78,39990,Vivo,128,67,Dimensity 9300 Octa Core,16,50
+163,Vivo S12 Pro 5G,4.5,88,8,4300,6.56,39990,Vivo,128,44,Dimensity 1200 Octa Core,50,108
+164,Vivo S10 Pro 5G,4.4,88,12,4050,6.44,38990,Vivo,256,44,Dimensity 1100 Octa Core,44,108
+165,Vivo V29 Pro ,4.25,85,12,4600,6.78,38799,Vivo,256,80,Dimensity  8200 Octa Core,50,50
+166,Vivo V30 5G ,4.25,86,12,5000,6.78,37999,Vivo,256,80,Snapdragon 7 Gen3 Octa Core,50,50
+167,Vivo X90 Lite,4.25,84,8,5000,6.6,37990,Vivo,128,67,Dimensity 9200 Octa Core,32,50
+168,Vivo V30 Pro 5G,4.55,87,8,5000,6.78,40990,Vivo,256,80,Dimensity 8200 Octa Core,50,50
+169,Vivo V31 Pro 5G,4.3,88,12,5000,6.8,42990,Vivo,256,100,Dimensity 9300 Octa Core,50,64
+170,Vivo V26 Pro,4.6,89,12,4800,6.7,42990,Vivo,256,100,Dimensity 9000 Plus Octa Core,32,200
+173,Vivo Nex 5 5G,4.65,89,8,4500,6.78,49990,Vivo,256,66,Snapdragon 870 Octa Core,32,50
+174,Vivo V40 Pro,4.1,91,12,5000,6.78,49940,Vivo,256,150,Dimensity 9300 Octa Core,50,200
+175,Vivo X90 ,4.25,89,12,4810,6.78,48990,Vivo,256,120,Dimensity 9200 Octa Core,32,50
+176,Vivo X100s,4.05,91,12,5100,6.78,46990,Vivo,256,100,Dimensity 9300 Plus Octa Core,32,64
+177,Vivo V40 Lite 5G,4.65,87,12,5000,6.68,45990,Vivo,256,44,Snapdragon 6 Gen1 Octa Core,50,108
+178,Vivo V30 Pro ,4.65,88,12,5000,6.78,45210,Vivo,512,80,Dimensity 8200 Octa Core,50,50
+179,Vivo V33 Pro,4.75,89,12,5000,6.8,44990,Vivo,256,100,Snapdragon 8 Gen3 Octa Core,50,50
+180,Vivo X90S,4.25,88,8,4810,6.78,44990,Vivo,256,120,Dimensity  9200 Plus Octa Core,32,50
+181,Vivo X90 5G,4.6,89,8,4810,6.78,50999,Vivo,256,120,Dimensity 9200 Octa Core,32,50
+182,Vivo X70 Pro Plus 5G,4.15,91,12,4500,6.78,51999,Vivo,256,55,Snapdragon  888+ Octa Core,32,50
+183,Vivo X80 5G,4.45,86,8,4500,6.78,54999,Vivo,128,80,Dimensity  9000 Octa Core,32,50
+184,Vivo X60T Pro Plus,4.6,88,8,4200,6.56,56990,Vivo,128,55,Snapdragon 888 Octa Core,32,50
+185,Vivo X100S Pro,4.25,92,12,5400,6.78,58990,Vivo,256,100,Dimensity 9300 Plus Octa Core,32,50
+186,Vivo X110,4.15,82,8,5000,6.8,62990,Vivo,256,200,Dimensity 9400 Octa Core Processor,32,108
+187,Vivo X100 5G,4.4,91,12,5000,6.78,63999,Vivo,256,120,Dimensity 9300 Octa Core,32,64
+188,Vivo X60 Pro Plus 5G ,4.75,89,8,4200,6.56,64990,Vivo,128,55,Snapdragon 888  Octa Core,32,50
+189,Vivo X100 5G ,4.7,92,16,5000,6.78,65490,Vivo,256,120,Dimensity 9300 Octa Core,32,64
+190,Vivo X110 Pro,4.6,84,12,5000,6.82,69990,Vivo,256,200,Dimensity 9400 Octa Core Processor,32,50
+191,Vivo X Note 5G,4.7,89,8,5000,7.0,69990,Vivo,256,80,Snapdragon 8 Gen1 Octa Core,16,50
+193,Vivo X90 Pro 5G,4.55,91,12,4870,6.78,74899,Vivo,256,120,Dimensity 9200 Octa Core,32,50
+194,Vivo X100 Ultra,4.3,96,12,5500,6.78,76990,Vivo,256,80,Snapdragon 8 Gen3 Octa Core,50,200
+195,Vivo X Note 5G ,4.45,90,12,5000,7.0,76990,Vivo,256,80,Snapdragon 8 Gen1 Octa Core,16,50
+196,Vivo X80 Pro 5G,4.15,91,12,4700,6.78,79999,Vivo,256,80,Snapdragon  8 Gen1 Octa Core,32,50
+206,Vivo X100 Pro Plus,4.65,94,12,5400,6.78,99990,Vivo,256,100,Snapdragon 8 Gen3 Octa Core,32,200
+207,Vivo X110 Pro Plus,4.45,97,12,4870,6.82,99990,Vivo,256,200,Snapdragon 8 Gen3 Octa Core,60,200
+209,Vivo X90 Pro Plus 5G,4.7,95,12,4700,6.78,94999,Vivo,256,80,Snapdragon 8 Gen2 Octa Core,32,50
+210,Vivo X100 Pro 5G,4.65,93,16,5400,6.78,89999,Vivo,256,100,Dimensity 9300 Octa Core,32,50
+212,Vivo X Note 5G ,4.4,90,12,5000,7.0,82990,Vivo,512,80,Snapdragon 8 Gen1 Octa Core,16,50
+213,Vivo X80 Pro Plus 5G,4.15,92,12,4500,6.78,82990,Vivo,256,120,Snapdragon 8+ Gen1 Octa Core,32,50
+214,Realme C30s,4.55,58,2,5000,6.5,6950,Realme,32,10,Unisoc SC9863A Octa Core,5,8
+215,Realme C21,4.7,62,3,5000,6.5,6950,Realme,32,52,Helio G35 Octa Core,5,13
+216,Realme C30 ,4.5,60,3,5000,6.5,7199,Realme,32,52,Tiger T612 Octa Core,5,8
+217,Realme C21Y,4.4,62,3,5000,6.5,7450,Realme,32,52,Unisoc T610 Octa Core,5,13
+218,Realme C11 2021 ,4.15,61,4,5000,6.52,7480,Realme,64,52,SC9863A Octa Core,5,8
+219,Realme Narzo 50i,4.25,59,2,5000,6.5,7499,Realme,32,52,Unisoc  SC9863A Octa Core,5,8
+220,Realme 5,4.35,68,3,5000,6.5,7499,Realme,32,52,Snapdragon  665 Octa Core,13,12
+221,Realme C12,4.55,65,3,6000,6.52,7790,Realme,32,52,Helio G35 Octa Core,5,13
+222,Realme Narzo N53,4.75,70,4,5000,6.74,7815,Realme,64,33,Unisoc T612 Octa Core,8,50
+223,Realme C21 ,4.35,65,4,5000,6.5,7850,Realme,64,52,Helio G35 Octa Core,5,13
+224,Realme C35,4.45,71,4,5000,6.6,7919,Realme,64,18,Tiger  T616 Octa Core,8,50
+225,Realme C51,4.5,69,4,5000,6.74,7920,Realme,64,33,Unisoc T612 Octa Core,5,50
+226,Realme C33,4.75,64,3,5000,6.5,7945,Realme,32,52,Unisoc T612 Octa Core,5,50
+227,Realme C30s ,4.0,62,4,5000,6.5,7950,Realme,64,10,Unisoc SC9863A Octa Core,5,8
+228,Realme C25Y ,4.25,69,4,5000,6.5,7980,Realme,64,18,Tiger  T610 Octa Core,8,50
+229,Realme 8i,3.95,74,4,5000,6.6,9999,Realme,64,18,Helio G96 Octa Core,16,50
+230,Realme C25,4.5,65,4,6000,6.5,9999,Realme,64,18,Helio G70 Octa Core,8,13
+231,Realme 5 ,4.15,69,4,5000,6.5,9999,Realme,64,52,Snapdragon  665 Octa Core,13,12
+232,Realme C63,4.2,73,4,5000,6.78,9990,Realme,128,45,Helio G36 Octa Core,8,50
+233,Realme Narzo N55 ,4.65,76,6,5000,6.72,9990,Realme,128,33,Helio G88 Octa Core,8,64
+235,Realme C26,4.2,68,4,6000,6.56,9990,Realme,64,33,Helio G88 Octa Core,8,48
+236,Realme C15s,4.55,67,3,6000,6.52,9990,Realme,32,18,Snapdragon 662 Octa Core,8,13
+237,Realme Narzo 11A,4.05,70,4,5100,6.7,9990,Realme,64,52,Helio G80 Octa Core,8,50
+238,Realme C15,4.55,68,3,6000,6.52,9893,Realme,32,18,Helio  G35 Octa Core,8,13
+239,Realme C53 ,4.6,77,6,5000,6.74,9820,Realme,128,18,Tiger T612 Octa Core,8,108
+240,Realme 10,4.25,74,4,5000,6.4,10299,Realme,64,33,Helio G99 Octa Core,16,50
+241,Realme Narzo N53 ,4.6,75,8,5000,6.74,10390,Realme,128,33,Unisoc T612 Octa Core,8,50
+242,Realme C65 5G,4.45,72,4,5000,6.67,10499,Realme,64,15,Dimensity 6300 Octa Core,8,50
+243,Realme Narzo 20,4.0,72,4,6000,6.5,10499,Realme,64,18,Helio G85  Octa Core,8,48
+244,Realme Narzo 70x 5G,4.25,75,4,5000,6.72,11999,Realme,128,45,Dimensity 6100 Plus Octa Core,8,50
+245,Realme 12X,4.2,75,4,5000,6.72,11999,Realme,128,45,Dimensity 6100 Plus Octa Core,8,50
+246,Realme Narzo 60X ,4.45,78,6,5000,6.72,11999,Realme,128,33,Dimensity 6100 Plus Octa Core,8,50
+247,Realme 7,4.6,78,6,5000,6.5,11999,Realme,64,30,Helio  G95 Octa Core,16,64
+248,Realme Narzo 70A,4.3,71,4,5000,6.52,11999,Realme,64,18,Helio G88 Octa Core,8,50
+249,Realme Narzo 9i,4.25,75,4,4500,6.6,11999,Realme,64,18,Snapdragon  680 Octa Core,16,50
+250,Realme Narzo 60A,4.7,71,4,5000,6.52,11999,Realme,64,18,Helio G88 Octa Core,8,50
+251,Realme C67 4G,4.4,80,8,5000,6.72,11990,Realme,128,33,Snapdragon 685 Octa Core,18,108
+252,Realme Q5x,4.05,66,4,5000,6.5,11990,Realme,64,52,Dimensity 700 5G Octa Core,5,13
+253,Realme C67 5G,4.15,75,4,5000,6.72,11910,Realme,128,33,Dimensity 6100 Plus Octa Core,8,50
+254,Realme 7i,4.5,73,4,5000,6.5,11749,Realme,64,18,Snapdragon 662 Octa Core,16,64
+255,Realme C65 5G ,4.3,74,4,5000,6.67,11499,Realme,128,15,Dimensity 6300 Octa Core,8,50
+256,Realme V20 5G,4.7,68,4,5000,6.5,11499,Realme,128,52,Dimensity 700 5G Octa Core,5,13
+257,Realme 8,4.5,78,4,5000,6.4,12251,Realme,128,30,Helio G95 Octa Core,16,64
+258,Realme 9i 5G,4.55,75,4,5000,6.6,12490,Realme,64,18,Dimensity 810 5G Octa Core,8,50
+259,Realme 9 5G,3.95,75,4,5000,6.5,12490,Realme,64,18,Dimensity  810 5G Octa Core,16,48
+260,Realme Narzo 60 5G,4.25,82,8,5000,6.43,14999,Realme,128,33,Dimensity 6020 Octa Core,16,64
+261,Realme 12X 5G ,4.5,80,8,5000,6.72,14999,Realme,128,45,Dimensity 6100 Plus Octa Core,8,50
+262,Realme C69 5G,4.2,79,6,5000,6.78,14999,Realme,128,44,Dimensity 6020 Octa Core,8,108
+263,Realme V30T,4.1,73,6,5000,6.5,14999,Realme,128,10,Dimensity 700 5G Octa Core,5,13
+265,Realme Narzo 80x 5G,4.35,71,6,5000,6.72,14990,Realme,128,65,Dimensity 7025 Octa Core Processor,16,50
+266,Realme 11 4G,4.65,82,8,5000,6.4,14990,Realme,128,67,Helio G99 Octa Core,16,108
+267,Realme Q5 5G,4.2,78,6,5000,6.6,14990,Realme,128,60,Snapdragon 695 Octa Core,16,50
+268,Realme 11x 5G,4.0,77,6,5000,6.72,14844,Realme,128,33,Dimensity 6100 Plus Octa Core,8,64
+269,Realme 10 5G,4.7,79,8,5000,6.6,14499,Realme,128,33,Dimensity  700 5G Octa Core,8,50
+270,Realme C55 ,4.65,79,8,5000,6.72,13999,Realme,128,33,Helio G88 Octa Core,8,64
+271,Realme 9 4G ,4.05,84,8,5000,6.4,13999,Realme,128,33,Snapdragon 680 Octa Core,16,108
+272,Realme XT,4.45,75,4,4000,6.4,15299,Realme,64,20,Snapdragon 712 Octa Core,16,64
+273,Realme Narzo 70 5G,4.0,80,6,5000,6.67,15329,Realme,128,45,Dimensity 7050 Octa Core,16,50
+274,Realme 11x 5G ,4.65,80,8,5000,6.72,15749,Realme,128,33,Dimensity 6100 Plus Octa Core,8,64
+275,Realme 8 ,4.75,83,8,5000,6.4,15990,Realme,128,30,Helio G95 Octa Core,16,64
+276,Realme V50s,4.75,69,6,5000,6.72,15990,Realme,128,52,Dimensity 6100 Plus Octa Core,8,13
+277,Realme 10 Pro,4.55,82,6,5000,6.72,19999,Realme,128,33,Snapdragon 695 Octa Core,16,108
+278,Realme 7 Pro,4.3,82,6,4500,6.4,19999,Realme,128,65,Snapdragon 720G  Octa Core,32,64
+279,Realme 10 5G SE,4.35,80,6,4500,6.6,19999,Realme,128,33,Snapdragon  7 Gen1 Octa Core,16,50
+280,Realme GT Neo 6 SE,4.45,84,8,5500,6.78,19990,Realme,256,100,Snapdragon 7+ Gen3 Octa Core,32,50
+281,Realme Note 1 5G,4.25,84,8,5000,6.67,19990,Realme,256,67,Dimensity 7050 Octa Core,16,108
+282,Realme Note 60,4.1,82,8,5000,6.8,19990,Realme,128,33,Dimensity 1200 Octa Core,16,64
+283,Realme 9 Pro 5G ,4.7,82,8,5000,6.6,19990,Realme,128,33,Snapdragon  695 Octa Core,16,64
+284,Realme Narzo 70 Pro 5G ,4.6,84,8,5000,6.67,19783,Realme,256,67,Dimensity 7050 Octa Core,16,50
+285,Realme GT Neo 3 5G,4.65,83,8,5000,6.7,18999,Realme,128,80,Dimensity  8100 Octa Core,16,50
+286,Realme 8 Pro ,4.65,84,8,4500,6.4,18999,Realme,128,50,Snapdragon 720G  Octa Core,16,108
+287,Realme Narzo 80 5G,4.75,84,8,5000,6.67,18990,Realme,128,67,Dimensity 7050 Octa Core,32,50
+289,Realme 9 5G SE,4.2,80,6,5000,6.6,20500,Realme,128,30,Snapdragon  778G Octa Core,16,48
+290,Realme 12 Plus 5G ,4.2,84,8,5000,6.67,20599,Realme,256,67,Dimensity 7050 Octa Core,16,50
+291,Realme X3 SuperZoom Edition ,4.05,82,8,4200,6.57,30049,Realme,256,30,Snapdragon 855+ Octa Core,32,64
+292,Realme GT 6T,4.15,85,8,5000,6.74,29999,Realme,128,100,Snapdragon 7+ Gen3 Octa Core,32,50
+293,Realme GT Neo 4T,4.25,81,8,5000,6.73,29999,Realme,128,120,Snapdragon 8 Gen1 Octa Core,16,50
+294,Realme X7 Pro,4.05,84,8,4500,6.55,29999,Realme,128,65,Dimensity 1000+ Octa Core,32,64
+295,Realme 11 Pro Plus ,4.45,89,12,5000,6.7,29996,Realme,256,100,Dimensity 7050 Octa Core,32,200
+296,Realme 13 Pro 5G,4.65,84,8,5000,6.74,29990,Realme,128,80,Snapdragon 7 Gen1 Octa Core,32,50
+298,Realme GT Neo 6 Lite,4.7,75,8,5500,6.74,29990,Realme,128,100,Snapdragon 7s Gen3 Octa Core Processor,16,64
+299,Realme 12 Pro Supreme Edition,4.45,84,12,5000,6.7,29990,Realme,512,67,Snapdragon 6 Gen1 Octa Core,16,50
+300,Realme X11 Pro,4.7,85,8,5000,6.67,29990,Realme,128,67,Dimensity 6080 Octa Core,32,108
+302,Realme 12 Pro Plus 5G ,4.4,86,8,5000,6.7,28979,Realme,256,67,Snapdragon 7s Gen2 Octa Core,32,64
+303,Realme 11 Pro Plus,4.7,88,8,5000,6.7,28339,Realme,256,100,Dimensity 7050 Octa Core,32,200
+304,Realme GT Neo 5,4.6,85,8,5000,6.74,30999,Realme,256,150,Snapdragon 8+ Gen1 Octa Core,16,50
+305,Realme GT 2 ,4.7,86,12,5000,6.62,30999,Realme,256,65,Snapdragon  888  Octa Core,16,50
+306,Realme 12 Pro Plus 5G ,4.15,86,12,5000,6.7,31089,Realme,256,67,Snapdragon 7s Gen2 Octa Core,32,64
+307,Realme GT Neo 5 ,4.45,87,16,4600,6.74,39999,Realme,256,240,Snapdragon 8+ Gen1 Octa Core,16,50
+308,Realme GT Neo 5 Pro,4.35,85,8,5200,6.74,39999,Realme,256,150,Snapdragon 8 Gen2 Octa Core,16,50
+309,Realme Flash 5G,4.6,87,12,5000,6.43,39999,Realme,256,65,Snapdragon 888 Octa Core,16,64
+310,Realme X60 Pro 5G,4.75,86,8,4200,6.57,39999,Realme,128,65,Snapdragon 888 Octa Core,32,64
+311,Realme Race Pro,4.15,83,8,5000,6.8,38999,Realme,128,125,Snapdragon  888  Octa Core,32,64
+312,Realme GT 5 Pro,4.45,89,12,5400,6.78,38990,Realme,256,100,Snapdragon 8 Gen3 Octa Core,32,50
+313,Realme GT Neo 4 5G,4.5,83,8,5000,6.7,36999,Realme,128,100,Snapdragon  8+ Gen1 Octa Core,16,50
+314,Realme GT 2 Master Discovery Edition,4.2,88,8,5000,6.7,36990,Realme,128,65,Snapdragon 8+ Gen1 Octa Core,32,50
+315,Realme GT 6T ,4.0,86,12,5000,6.74,35999,Realme,512,100,Snapdragon 7+ Gen3 Octa Core,32,50
+316,Realme GT Neo 2 Dragon Ball Z Special Edition,4.55,82,8,5000,6.62,34999,Realme,128,65,Snapdragon 870 Octa Core,16,64
+317,Realme X3 SuperZoom Edition ,4.3,83,12,4200,6.57,34999,Realme,256,30,Snapdragon 855+ Octa Core,32,64
+318,Realme 13 Pro Plus 5G,4.5,88,8,5000,6.74,34990,Realme,256,80,Snapdragon 7 Gen3 Octa Core,32,200
+320,Realme 12 Pro Max,4.75,79,8,5000,6.73,33999,Realme,256,67,Snapdragon 7s Gen2 Octa Core Processor,32,200
+321,Realme GT Neo 3T ,4.35,82,8,5000,6.62,33999,Realme,256,80,Snapdragon 870 Octa Core,16,64
+322,Realme GT 6T ,4.7,86,12,5000,6.74,33999,Realme,256,100,Snapdragon 7+ Gen3 Octa Core,32,50
+323,Realme GT 5,4.65,86,12,5240,6.74,33990,Realme,256,150,Snapdragon 8 Gen2 Octa Core,16,50
+324,Realme GT 2 Explorer Master Edition,4.45,86,8,5000,6.7,40990,Realme,128,100,Snapdragon 8+ Gen1 Octa Core,16,50
+325,Realme GT 5 ,4.15,89,24,4600,6.74,42990,Realme,1,240,Snapdragon 8 Gen2 Octa Core,16,50
+326,Realme GT 3,4.45,86,8,4600,6.74,44990,Realme,128,240,Snapdragon 8+ Gen1 Octa Core,16,50
+327,Realme GT Flash 5G,4.75,85,8,4500,6.7,44999,Realme,258,65,Snapdragon  888+ Octa Core,32,50
+328,Realme GT 6,4.15,89,12,5500,6.78,49990,Realme,256,150,Snapdragon 8s Gen3 Octa Core,32,50
+329,Realme GT 6 Pro 5G,4.1,83,12,5500,6.78,49990,Realme,512,120,Snapdragon 8 Gen4 Octa Core Processor,50,50
+330,Realme GT Neo 7,4.45,88,8,5050,6.78,49990,Realme,256,150,Snapdragon 8 Gen3 Octa Core,50,50
+331,Realme GT 3 Pro 5G,4.4,80,8,5000,6.7,49990,Realme,128,65,Snapdragon 8 Gen1 Plus Octa Core Processor,32,50
+332,Realme GT Neo 6 Pro,4.75,88,8,5200,6.74,49999,Realme,256,150,Snapdragon 8 Gen3 Octa Core,16,108
+333,OPPO A55s 5G,4.75,74,6,5000,6.5,14990,OPPO,128,52,Dimensity 700 5G Octa Core,8,13
+334,OPPO A59 5G,4.4,71,4,5000,6.56,13999,OPPO,128,33,Dimensity 6020 Octa Core,8,13
+335,Oppo A78,4.7,78,8,5000,6.56,13999,Oppo,128,33,Dimensity 700 5G Octa Core,8,50
+336,Oppo A78 4G,4.25,81,8,5000,6.43,13999,Oppo,128,67,Snapdragon 680 Octa Core,8,50
+337,OPPO A77s,4.5,76,8,5000,6.56,13999,OPPO,128,33,Snapdragon 680 Octa Core,8,50
+338,OPPO A59 5G ,4.5,74,6,5000,6.56,15499,OPPO,128,33,Dimensity 6020 Octa Core,8,13
+339,Oppo A60 5G,4.6,77,4,5000,6.67,15990,Oppo,256,44,Dimensity 7020 Octa Core,16,50
+340,Oppo Reno 8T 4G,4.55,86,8,5000,6.43,19999,Oppo,256,33,Helio G99 Octa Core,32,100
+341,OPPO A2,4.7,81,12,5000,6.72,19999,OPPO,256,33,Dimensity 6020 Octa Core,8,50
+342,OPPO F21s Pro 4G,4.55,82,8,4500,6.43,19990,OPPO,128,33,Snapdragon  680 Octa Core,32,64
+343,OPPO F23 Pro,4.25,82,8,5000,6.72,19990,OPPO,128,67,Snapdragon 695 Octa Core,32,64
+344,Oppo K5 ,4.25,82,8,4000,6.4,19990,Oppo,128,30,Snapdragon  730G Octa Core,32,64
+345,OPPO K10,4.35,78,6,5000,6.59,18999,OPPO,128,33,Snapdragon 680 Octa Core,16,50
+346,OPPO A58,4.45,76,6,5000,6.56,18990,OPPO,128,33,Dimensity 700 5G Octa Core,8,50
+347,OPPO A54 5G,4.75,75,4,5000,6.5,18990,OPPO,64,52,Snapdragon 480 Octa Core,16,48
+348,OPPO F17,4.2,78,6,4000,6.44,18990,OPPO,128,30,Snapdragon 662  Octa Core,16,16
+349,OPPO F23,4.6,84,8,5000,6.72,20699,OPPO,256,67,Snapdragon  695 Octa Core,32,64
+350,OPPO A1 Pro 5G,4.25,84,8,4800,6.7,20990,OPPO,128,67,Snapdragon 695 Octa Core,16,108
+351,OPPO F25,4.7,86,8,5000,6.7,20999,OPPO,256,67,Dimensity 7050 Octa Core,32,64
+352,OPPO A2 Pro 5G,4.55,82,8,5000,6.7,20999,OPPO,256,67,Dimensity 7050 Octa Core,8,64
+353,OPPO Reno 11 ,4.7,89,8,5000,6.7,29999,OPPO,256,67,Dimensity 7050 Octa Core,32,50
+354,OPPO F22s Pro,4.45,84,8,5100,6.67,29999,OPPO,128,67,Snapdragon 7 Gen1 Octa Core,32,64
+355,Oppo Reno 5 Z 5G,4.0,84,8,4310,6.43,29990,Oppo,128,30,Dimensity 800U Octa Core,16,48
+356,Oppo Reno 5,4.45,83,8,4300,6.43,29990,Oppo,128,65,Snapdragon  765G  Octa Core,32,64
+357,Oppo K11 Pro 5G,4.35,81,8,5000,6.62,29990,Oppo,128,80,Snapdragon 888 Octa Core,16,50
+358,Oppo K10 Pro 5G,4.2,81,8,5000,6.62,29990,Oppo,128,80,Snapdragon 888 Octa Core,16,50
+359,OPPO F21 Pro Plus 5G,4.05,83,8,4200,6.43,29990,OPPO,128,65,Dimensity 900 Octa Core,16,50
+360,Oppo Reno 5 Pro 5G,4.3,84,8,4350,6.53,28900,Oppo,128,65,Dimensity 1000+ Octa Core,32,64
+361,OPPO Reno 10 Pro,4.65,87,12,4600,6.7,30200,OPPO,256,80,Snapdragon 778G Octa Core,32,50
+362,OPPO Reno7 Pro 5G,4.6,87,12,4500,6.55,30900,OPPO,256,65,Dimensity  1200 Max Octa Core,32,50
+363,OPPO Reno 9 Pro 5G,4.05,86,16,4500,6.7,39999,OPPO,256,67,Dimensity 8100 Max Octa Core,32,50
+364,Oppo Reno 8T,4.4,86,8,4800,6.7,38999,Oppo,128,67,Snapdragon 695 Octa Core,32,108
+365,OPPO F27,4.2,89,8,5000,6.78,36990,OPPO,256,80,Snapdragon 8s Gen3 Octa Core,50,50
+366,Oppo Reno 9T,4.5,78,8,5000,6.8,35999,Oppo,128,68,Snapdragon 7 Gen2 Octa Core Processor,32,108
+367,OPPO Reno 11 Pro 5G,4.75,88,12,4600,6.7,35990,OPPO,256,80,Dimensity 8200 Octa Core,32,50
+368,OPPO Reno 13 5G,4.35,88,12,5500,6.78,34990,OPPO,256,100,Dimensity 9200 Octa Core,32,50
+369,Oppo Reno 8 Pro ,4.25,85,8,4500,6.7,42990,Oppo,256,80,Dimensity 8100-Max Octa Core,32,50
+370,OPPO Reno8 Pro Plus,4.65,85,8,4500,6.7,42990,OPPO,256,80,Dimensity 8100-Max Octa Core,32,50
+371,OPPO Reno 12 Pro,4.45,89,12,5000,6.74,44990,OPPO,256,120,Dimensity 9200 Plus Octa Core,32,50
+372,OPPO Reno7 Pro 5G ,4.7,86,12,4500,6.55,44990,OPPO,512,65,Dimensity 1200 Octa Core,32,50
+373,OPPO Reno 6 Pro Plus 5G,4.35,87,8,4500,6.55,44990,OPPO,128,65,Snapdragon 870 Octa Core,32,50
+374,OPPO Reno 4 Pro 5G ,4.6,86,12,4000,6.5,44999,OPPO,256,65,Snapdragon 765G Octa Core,32,48
+375,OPPO Reno 9 Pro Plus,4.55,86,16,4700,6.7,45999,OPPO,256,80,Snapdragon 8+ Gen1 Octa Core,32,50
+376,OPPO Find X2,4.6,89,12,4200,6.7,47990,OPPO,256,65,Snapdragon  865  Octa Core,32,48
+377,Oppo Find X7 5G,4.4,90,12,5000,6.78,47999,Oppo,256,100,Dimensity 9300 Octa Core,32,64
+378,OPPO Reno 13 Pro 5G,4.15,81,12,5000,6.78,49999,OPPO,256,120,Dimensity 9300 Plus Octa Core Processor,50,64
+379,Oppo Reno 10 Pro Plus,4.6,89,12,4700,6.74,49499,Oppo,256,100,Snapdragon 8+ Gen1 Octa Core,32,64
+380,Oppo Find X3 Pro,4.0,90,12,4500,6.7,50990,Oppo,256,65,Snapdragon  888  Octa Core,32,50
+381,Oppo Find X6,4.15,90,12,4880,6.74,54990,Oppo,256,80,Dimensity 9200 Octa Core,32,50
+382,Oppo Find X7 Ultra,4.0,94,12,5000,6.82,69990,Oppo,256,100,Snapdragon 8 Gen3 Octa Core,32,50
+383,Oppo Find X6 Pro,4.45,91,12,5000,6.82,71990,Oppo,256,100,Snapdragon 8 Gen2 Octa Core,32,50
+384,Oppo Find X4 Pro 5G,4.65,90,8,4500,6.7,78990,Oppo,256,80,Snapdragon 8 Gen1 Octa Core,32,50
+385,Oppo Find X7 Pro 5G,4.35,93,12,5000,6.83,79990,Oppo,256,100,Snapdragon 8 Gen3 Octa Core,32,50
+386,Oppo Find X5 Pro 5G,4.15,90,8,5000,6.7,79990,Oppo,256,80,Snapdragon 8 Gen1 Octa Core,32,50
+387,Oppo Find X5 5G,4.05,89,8,4800,6.55,84990,Oppo,256,80,Snapdragon 888  Octa Core,32,50
+395,Oppo Find X2 Pro AutoMobili Lamborghini Edition,4.15,89,12,4260,6.7,129990,Oppo,512,65,Snapdragon 865 Octa Core,32,48
+398,iQOO Z7i,4.05,69,4,5000,6.51,10990,iQOO,128,15,Dimensity 6020 Octa Core,5,13
+399,iQOO Z6 Lite ,4.2,79,6,5000,6.58,11999,iQOO,128,18,Snapdragon  4 Gen 1 Octa Core,8,50
+400,iQOO Z6 Lite 5G,4.45,75,4,5000,6.58,12899,iQOO,64,18,Snapdragon  4 Gen 1 Octa Core,8,50
+401,iQOO Z6 Lite,4.65,74,4,5000,6.58,12990,iQOO,64,18,Snapdragon 680 Octa Core,8,50
+402,iQOO Z9x,4.75,81,8,6000,6.72,13499,iQOO,128,44,Snapdragon 6 Gen1 Octa Core,8,50
+403,iQOO Z6 5G,4.1,78,4,5000,6.58,13990,iQOO,128,18,Snapdragon  695  Octa Core,16,50
+404,iQOO U5x 5G,4.25,74,6,5000,6.51,13990,iQOO,128,18,Snapdragon 480+ Octa Core,8,13
+405,iQOO Z7 Lite 4G,4.65,76,6,5000,6.6,14990,iQOO,64,33,Snapdragon 685 Octa Core,8,50
+406,iQOO Z7x,4.0,81,8,6000,6.64,15990,iQOO,128,80,Snapdragon 695 Octa Core,8,50
+407,iQOO Z6x,4.2,77,6,6000,6.58,15990,iQOO,128,44,Dimensity 810 5G Octa Core,8,50
+408,iQOO U5e 5G,4.75,69,4,5000,6.51,15990,iQOO,128,18,Dimensity 700 Octa Core,8,13
+409,iQOO Z7s ,4.0,82,8,4500,6.38,15999,iQOO,128,44,Snapdragon 695 Octa Core,16,64
+410,iQOO Z7s 5G,4.7,80,6,4500,6.38,17990,iQOO,128,44,Snapdragon 695 Octa Core,16,64
+411,iQOO Z6 5G ,4.05,82,8,5000,6.58,17999,iQOO,128,18,Snapdragon  695  Octa Core,16,50
+412,iQOO Z7 5G ,4.55,83,8,5000,6.64,18990,iQOO,128,120,Snapdragon 782G Octa Core,16,64
+413,iQOO U6,4.6,71,4,5000,6.51,18990,iQOO,128,18,Dimensity 700 5G Octa Core,5,13
+414,iQOO Z8 5G,4.45,83,8,5000,6.64,19499,iQOO,256,120,Dimensity 8200 Octa Core,16,64
+415,iQOO Z8x,4.75,82,8,6000,6.64,19990,iQOO,128,67,Snapdragon 6 Gen 1 Octa Core,16,64
+416,iQOO Z9 5G,4.3,83,8,5000,6.67,19999,iQOO,128,44,Dimensity 7200 Octa Core,16,50
+417,IQOO Z6 ,4.55,81,8,4500,6.64,19990,IQOO,128,80,Snapdragon  778G Plus Octa Core,8,64
+418,iQOO Z6 Pro SE,4.5,76,6,5000,6.44,19990,iQOO,128,33,Snapdragon  695 Octa Core,8,50
+419,iQOO Z9 5G ,4.6,84,8,5000,6.67,21838,iQOO,256,44,Dimensity 7200 Octa Core,16,50
+420,iQOO Z7 Pro 5G,4.55,80,8,4600,6.78,22486,iQOO,128,66,Dimensity 7200 Octa Core,16,64
+421,iQOO Neo 6 SE 5G,4.1,83,8,4700,6.62,22990,iQOO,128,80,Snapdragon 870 Octa Core,16,64
+422,iQOO Z8 Pro 5G,4.15,70,6,4500,6.44,22999,iQOO,128,80,Dimensity 7200 Octa Core Processor,16,50
+423,iQOO Neo 7 Pro,4.55,83,8,5000,6.78,29999,iQOO,128,120,Snapdragon 8+ Gen1 Octa Core,16,50
+424,iQOO 12 Lite,4.75,86,12,6000,6.78,29990,iQOO,256,80,Snapdragon 8s Gen3 Octa Core,16,50
+425,iQOO Neo 9 SE,4.3,84,8,5000,6.82,29990,iQOO,128,150,Snapdragon 8 Gen1 Octa Core,32,50
+426,iQOO Z5 Pro 5G,4.4,84,8,4500,6.57,29990,iQOO,128,65,Snapdragon 870 Octa Core,16,64
+427,iQOO Neo 8,4.7,83,12,4880,6.78,28999,iQOO,256,120,Snapdragon 8+ Gen1 Octa Core,16,50
+428,iQOO Neo 9,4.5,84,12,5160,6.78,26990,iQOO,256,120,Snapdragon 8 Gen2 Octa Core,16,50
+429,iQOO Neo 5 5G,4.65,83,8,4400,6.62,25999,iQOO,128,66,Snapdragon  870 Octa Core,16,48
+430,iQOO Z9 Pro,4.05,84,8,5000,6.67,25990,iQOO,128,120,Snapdragon 7+ Gen2 Octa Core,32,108
+431,iQOO Neo 10,4.35,86,12,5160,6.8,30990,iQOO,256,150,Snapdragon 8 Gen3 Octa Core,32,64
+432,iQOO Neo 7 Racing Edition,4.05,84,8,5000,6.78,32990,iQOO,256,120,Snapdragon 8+ Gen1 Octa Core,16,50
+433,iQOO Neo 7 5G ,4.6,84,8,5000,6.78,33990,iQOO,128,120,Dimensity 9000 Plus Octa Core,16,50
+434,iQOO Neo 9 Pro 5G ,4.15,82,8,5160,6.78,34999,iQOO,128,120,Snapdragon 8 Gen2 Octa Core,16,50
+435,iQOO Neo 9 Pro 5G,4.1,83,8,5160,6.78,36999,iQOO,256,120,Snapdragon 8 Gen2 Octa Core,16,50
+437,iQOO Neo 8 Pro,4.6,85,16,4880,6.78,38990,iQOO,256,120,Dimensity 9200 Plus Octa Core,16,50
+438,iQOO Neo 9S Pro 5G,4.3,75,8,5000,6.78,39990,iQOO,256,120,Dimensity 9300 Plus Octa Core Processor,16,50
+439,iQOO 8 Legend 5G,4.3,84,8,4200,6.62,39990,iQOO,128,66,Snapdragon  888+ Octa Core,16,50
+440,iQOO Neo 9 Pro 5G ,4.4,84,12,5160,6.78,38999,iQOO,256,120,Snapdragon 8 Gen2 Octa Core,16,50
+441,iQOO 9 5G,4.55,84,8,4350,6.56,42990,iQOO,128,120,Snapdragon  888+ Octa Core,16,48
+442,iQOO 11s,4.45,87,12,4700,6.78,43990,iQOO,256,200,Snapdragon 8 Gen2 Octa Core,16,50
+443,iQOO Neo 9S Pro Plus 5G,4.65,86,12,5000,6.78,44990,iQOO,256,120,Snapdragon 8 Gen3 Octa Core,32,50
+444,iQOO 11 ,4.15,89,16,5000,6.78,44999,iQOO,256,120,Snapdragon 8 Gen2 Octa Core,16,50
+445,iQOO 10 Legend BMW Edition,4.3,88,12,4800,6.78,49990,iQOO,256,120,Dimensity 9000 Plus Octa Core,16,50
+446,iQOO 9 5G ,4.55,85,12,4350,6.56,52652,iQOO,256,120,Snapdragon  888+ Octa Core,16,48
+447,iQOO 12 5G,4.3,89,12,5000,6.78,52999,iQOO,256,120,Snapdragon 8 Gen3 Octa Core,16,64
+448,iQOO 12 5G ,4.55,90,16,5000,6.78,57999,iQOO,512,120,Snapdragon 8 Gen3 Octa Core,16,64
+449,iQOO 10 Pro 5G,4.65,89,8,4700,6.78,58990,iQOO,256,200,Snapdragon  8+ Gen1 Octa Core,16,50
+450,iQOO 11 Pro 5G,4.75,89,8,4700,6.78,58990,iQOO,256,200,Snapdragon 8 Gen2 Octa Core,16,50
+451,iQOO 13,4.65,83,12,6000,6.8,64990,iQOO,256,120,Snapdragon 8 Gen4 Octa Core Processor,32,108
+452,iQOO 12 Pro,4.1,92,16,5100,6.78,64990,iQOO,256,120,Snapdragon 8 Gen3 Octa Core,16,64
+453,iQOO 9 Pro 5G,4.15,87,8,4700,6.78,64990,iQOO,256,120,Snapdragon 8 Gen1 Octa Core,16,50
+454,iQOO 13 Pro,4.7,86,12,5000,6.8,72990,iQOO,512,250,Snapdragon 8 Gen4 Octa Core Processor,60,200
+455,iQOO 9 Pro 5G ,4.45,88,12,4700,6.78,76429,iQOO,256,120,Snapdragon 8 Gen1 Octa Core,16,50
+456,Poco C61 ,4.05,69,6,5000,6.71,6999,Poco,128,18,Helio G36 Octa Core,5,8
+457,Poco C55,4.55,71,4,5000,6.71,6999,Poco,64,10,Helio  G85 Octa Core,5,50
+458,Poco C50 ,4.4,61,3,5000,6.52,7299,Poco,32,10,Helio A22 Quad Core,5,8
+459,Poco C65 ,4.2,68,6,5000,6.74,7499,Poco,128,18,Helio  G85 Octa Core,8,50
+460,POCO C31 ,4.6,68,4,5000,6.53,7580,POCO,64,52,Helio G35 Octa Core,5,13
+461,Poco C3,4.25,66,3,5000,6.53,7890,Poco,32,52,Helio G35 Octa Core,5,13
+462,POCO M3 ,4.5,74,4,6000,6.53,7972,POCO,64,18,Snapdragon 662 Octa Core,8,48
+463,Poco C60,4.35,71,4,5000,6.73,7990,Poco,64,18,Helio G88 Octa Core,8,50
+464,Poco C65 ,4.05,71,8,5000,6.74,7999,Poco,256,18,Helio  G85 Octa Core,8,50
+465,Poco C55 ,4.75,75,6,5000,6.71,7999,Poco,128,10,Helio  G85 Octa Core,5,50
+466,Poco C4,4.5,62,3,5000,6.53,7999,Poco,32,52,Helio G25 Octa Core,5,13
+467,Poco M3,4.0,75,6,6000,6.53,8490,Poco,64,18,Snapdragon 662 Octa Core,8,48
+468,Poco C3 ,4.45,69,4,5000,6.53,8490,Poco,64,52,Helio G35 Octa Core,5,13
+469,Poco C51,4.45,66,4,5000,6.52,8499,Poco,64,10,Helio G36 Octa Core,5,8
+470,POCO M2 Reloaded,4.35,71,4,5000,6.53,8689,POCO,64,18,Helio G80 Octa Core,8,13
+471,POCO C32,4.5,68,3,5000,6.58,8990,POCO,64,18,Helio G37 Octa Core,8,13
+472,Poco M5,4.65,74,4,5000,6.58,8999,Poco,64,18,Helio G99 Octa Core,8,50
+473,Poco C51 ,4.75,70,6,5000,6.52,8999,Poco,128,10,Helio G36 Octa Core,5,8
+474,Poco C66,4.2,68,6,5000,6.78,8999,Poco,128,33,Helio G99 Octa Core Processor,13,50
+475,Poco C5,4.15,64,3,5000,6.67,8999,Poco,32,52,Helio G35 Octa Core,8,13
+476,Poco M6 Pro 5G ,4.6,77,6,5000,6.79,9999,Poco,128,18,Snapdragon 4 Gen2 Octa Core,8,50
+477,Poco M6 5G ,4.0,75,6,5000,6.74,9999,Poco,128,18,Dimensity 6100 Plus Octa Core,5,50
+478,Poco M4 5G,4.0,75,4,5000,6.58,9990,Poco,64,18,Dimensity 700 5G Octa Core,8,50
+479,Poco C63,4.25,66,4,5000,6.78,9990,Poco,128,33,Helio G91 Octa Core Processor,13,50
+480,Poco C75,4.45,75,4,5000,6.78,9990,Poco,128,33,Helio G99 Octa Core,16,50
+481,Poco M2 ,4.55,75,6,5000,6.53,9990,Poco,128,18,Helio G80 Octa Core,8,13
+482,POCO M2 Pro,4.05,76,4,5000,6.67,9799,POCO,64,33,Snapdragon 720G Octa Core,16,48
+483,Poco M2,4.45,74,6,5000,6.53,9690,Poco,64,18,Helio G80 Octa Core,8,13
+484,Poco M6 Pro 5G ,4.4,75,4,5000,6.79,9499,Poco,128,18,Snapdragon 4 Gen2 Octa Core,8,50
+485,Poco M6 5G,4.75,73,4,5000,6.74,9249,Poco,128,18,Dimensity 6100 Plus Octa Core,5,50
+486,POCO M4 Pro 4G,4.35,77,6,5000,6.43,10330,POCO,64,33,Helio G96 Octa Core,16,64
+487,Poco M6 5G ,4.4,77,8,5000,6.74,10499,Poco,256,18,Dimensity 6100 Plus Octa Core,5,50
+488,POCO M2 Pro ,4.3,78,6,5000,6.67,10880,POCO,64,33,Snapdragon 720G Octa Core,16,48
+489,Poco M6 4G,4.0,75,4,5000,6.8,10999,Poco,128,33,Helio G99 Octa Core,8,64
+490,Poco M6 Pro 5G ,4.15,80,8,5000,6.79,11499,Poco,256,18,Snapdragon 4 Gen2 Octa Core,8,50
+491,POCO M4 Pro 4G ,4.65,79,6,5000,6.43,11539,POCO,128,33,Helio G96 Octa Core,16,64
+492,Poco M5 ,4.75,77,6,5000,6.58,11990,Poco,128,18,Helio G99 Octa Core,8,50
+493,Poco M4 5G ,4.15,79,6,5000,6.58,12194,Poco,128,18,Dimensity 700 5G Octa Core,8,50
+494,POCO M4 Pro 4G ,4.45,81,8,5000,6.43,12490,POCO,128,33,Helio G96 Octa Core,16,64
+495,Poco M7 Pro 5G,4.0,77,6,5000,6.78,12990,Poco,128,33,Dimensity 6100 Plus Octa Core,16,50
+496,Poco M6 Pro 4G,4.55,83,8,5000,6.67,12990,Poco,256,67,Helio G99 Octa Core,16,64
+497,Poco M4,4.2,76,6,5000,6.53,12999,Poco,64,18,Snapdragon 665 Octa Core,8,64
+498,POCO M2 Pro ,4.4,79,6,5000,6.67,13267,POCO,128,33,Snapdragon 720G Octa Core,16,48
+499,Poco X3,4.5,80,6,6000,6.67,13290,Poco,64,33,Snapdragon  732G Octa Core,20,64
+500,POCO M3 Pro 5G,4.5,75,4,5000,6.5,13490,POCO,64,18,Dimensity 700 5G Octa Core,8,48
+501,POCO X5 5G,4.2,81,6,5000,6.67,13999,POCO,128,33,Snapdragon 695 Octa Core,13,48
+502,Poco M4 Pro 5G,3.95,76,4,5000,6.6,13999,Poco,64,33,Dimensity  810 5G Octa Core,16,50
+503,Poco M4 Pro 5G ,4.35,81,6,5000,6.6,14499,Poco,128,33,Dimensity  810 5G Octa Core,16,50
+504,Poco M4 Pro 5G ,4.4,82,8,5000,6.6,14899,Poco,128,33,Dimensity  810 5G Octa Core,16,50
+505,Poco X4 Pro 5G,4.25,80,6,5000,6.67,14950,Poco,64,67,Snapdragon 695  Octa Core,16,64
+506,Poco M5s,4.4,77,4,5000,6.43,14990,Poco,64,33,Helio G95 Octa Core,13,64
+507,Poco X4,4.3,79,6,5000,6.67,14990,Poco,128,67,Dimensity 700 5G Octa Core,16,50
+508,Poco X6 Neo,4.6,83,8,5000,6.67,14999,Poco,128,33,Dimensity 6080 Octa Core,16,108
+509,Poco X3 ,4.2,84,8,6000,6.67,15590,Poco,128,33,Snapdragon  732G Octa Core,20,64
+511,Poco X2 ,4.35,81,6,4500,6.67,15990,Poco,128,27,Snapdragon  730G Octa Core,20,64
+512,POCO X5 5G ,4.4,84,8,5000,6.67,15999,POCO,256,33,Snapdragon 695 Octa Core,13,48
+513,Poco X3 ,4.2,81,6,6000,6.67,15999,Poco,128,33,Snapdragon  732G Octa Core,20,64
+514,Poco M5 Pro 5G,4.35,76,4,5000,6.61,15999,Poco,64,33,Dimensity 810 5G Octa Core,16,50
+515,Poco X6 Neo ,4.7,84,12,5000,6.67,16999,Poco,256,33,Dimensity 6080 Octa Core,16,108
+516,Poco X2 ,4.65,84,8,4500,6.67,16999,Poco,256,27,Snapdragon  730G Octa Core,20,64
+517,Poco X4 Pro 5G ,4.1,82,6,5000,6.67,17945,Poco,128,67,Snapdragon 695  Octa Core,16,64
+518,Poco X7 Neo,4.5,84,8,5000,6.72,17990,Poco,256,67,Dimensity 7050 Octa Core,32,50
+519,Poco X4 NFC,4.3,81,6,5160,6.67,17990,Poco,128,67,Dimensity 920 Octa Core,16,108
+520,Poco X6 5G,4.1,81,8,5100,6.67,19499,Poco,256,67,Snapdragon 7s Gen 2 Octa Core,16,64
+521,Poco X5 Pro,4.05,80,6,5000,6.67,19490,Poco,128,67,Snapdragon 778G Octa Core,16,108
+522,Poco X6 5G ,4.7,83,12,5100,6.67,20999,Poco,256,67,Snapdragon 7s Gen 2 Octa Core,16,64
+523,Poco M7,4.1,84,8,5000,6.73,21990,Poco,128,80,Dimensity 7050 Octa Core,32,50
+524,Poco M6s,4.55,85,8,5000,6.73,21990,Poco,128,67,Snapdragon 6 Gen 1 Octa Core,16,50
+525,Poco X6 5G ,4.5,84,12,5100,6.67,21999,Poco,512,67,Snapdragon 7s Gen 2 Octa Core,16,64
+526,Poco X4 Pro 5G ,4.75,84,8,5000,6.67,21999,Poco,128,67,Snapdragon 695  Octa Core,16,64
+527,Poco X5 Pro ,4.15,84,8,5000,6.67,22999,Poco,256,67,Snapdragon 778G Octa Core,16,108
+528,Poco X6 Pro 5G,4.5,84,8,5000,6.67,24499,Poco,256,67,Dimensity 8300 Ultra Octa Core,16,64
+529,POCO X4 GT 5G,4.2,84,8,5080,6.6,24990,POCO,128,67,Dimensity 8100 Octa Core,16,64
+530,Poco F4 5G,3.95,82,6,4500,6.67,25890,Poco,128,67,Snapdragon  870 Octa Core,20,64
+531,Poco F3 GT 5G ,4.4,82,8,5065,6.67,25999,Poco,256,67,Dimensity 1200 Octa Core,16,64
+532,Poco X6 Pro 5G ,4.25,86,12,5000,6.67,26499,Poco,512,67,Dimensity 8300 Ultra Octa Core,16,64
+533,Poco F4 Pro 5G,4.45,80,6,4200,6.69,27990,Poco,128,44,Snapdragon 870 Octa Core,16,64
+534,Poco F4 ,4.45,86,12,4500,6.67,27999,Poco,256,67,Snapdragon  870 Octa Core,20,64
+535,POCO X4 GT 5G ,4.6,85,8,5080,6.6,28990,POCO,256,67,Dimensity 8100 Octa Core,16,64
+536,Poco F5,4.75,84,8,5000,6.67,29999,Poco,256,67,Snapdragon 7+ Gen2 Octa Core,16,64
+537,Poco F4 5G ,4.6,85,8,4500,6.67,29999,Poco,128,67,Snapdragon  870 Octa Core,20,64
+538,Poco Pad Tablet,4.4,67,6,10500,12.1,29990,Poco,128,33,Snapdragon 7s Gen2 Octa Core,8,8
+539,POCO X5 GT,4.5,75,8,5000,6.7,29990,POCO,128,80,Snapdragon 7 Gen2 Octa Core Processor,32,64
+540,Poco X7,4.4,75,8,5000,6.77,31990,Poco,128,66,Snapdragon 7s Gen3 Octa Core Processor,32,50
+541,Poco X7 Pro,4.15,85,8,5000,6.8,32990,Poco,128,100,Snapdragon 8+ Gen1 Octa Core,32,108
+542,Poco F5 ,4.65,85,12,5000,6.67,33999,Poco,256,67,Snapdragon 7+ Gen2 Octa Core,16,64
+543,Poco F6,4.1,86,8,5000,6.72,34990,Poco,128,120,Snapdragon 8s Gen3 Octa Core,32,50
+544,Poco F5 Pro,4.65,87,8,5160,6.67,36999,Poco,256,67,Snapdragon 8+ Gen1 Octa Core,16,64
+545,POCO F4 GT 5G,4.15,86,8,4700,6.67,39999,POCO,128,120,Snapdragon  8 Gen1 Octa Core,20,64
+546,Poco F6 Pro,4.35,88,8,5500,6.72,40990,Poco,128,120,Snapdragon 8 Gen2 Octa Core,32,108
+547,POCO F5 GT 5G,4.4,86,8,4500,6.67,42999,POCO,128,150,Dimensity 1300 Octa Core,20,64
+548,Poco X8 Pro 5G,4.65,88,12,5500,6.67,45990,Poco,512,100,Dimensity 9300 Octa Core,32,50
+549,POCO F4 GT ,4.6,88,12,4700,6.67,46990,POCO,256,120,Snapdragon  8 Gen1 Octa Core,20,64
+550,Honor Play 8T,4.7,78,8,6000,6.8,14990,Honor,256,35,Dimensity 6080 Octa Core,8,50
+551,Honor X8 5G,4.0,75,6,5000,6.5,14990,Honor,128,22,Snapdragon  480+ Octa Core,8,48
+552,Honor Play 50,4.4,80,8,5000,6.58,14990,Honor,128,18,Dimensity 700 5G Octa Core,8,50
+553,Honor Play 40,4.1,72,6,5200,6.56,14990,Honor,128,52,Snapdragon 480+ Octa Core,5,13
+554,Honor X6,4.5,71,4,5000,6.5,13999,Honor,64,10,Helio G25 Octa Core,5,50
+555,Honor Play 50 Plus,4.3,81,8,6000,6.8,13999,Honor,256,35,Dimensity 6020 Octa Core,8,50
+556,Honor X7a,4.1,75,6,5000,6.75,13999,Honor,128,22,Helio G37 Octa Core,8,50
+557,Honor Play 7T,4.05,75,8,6000,6.74,13990,Honor,128,22,Dimensity 6020 Octa Core,5,50
+558,Honor Play 40 Plus,4.1,72,6,6000,6.74,13990,Honor,128,22,Dimensity 700 5G Octa Core,5,50
+559,Honor X50,4.65,80,8,5800,6.78,15990,Honor,128,33,Snapdragon 6 Gen1 Octa Core,8,108
+560,Honor X7b 5G,4.7,83,8,6000,6.8,19990,Honor,256,35,Dimensity 6020 Octa Core,8,108
+561,Honor X7b 4G,4.65,80,6,6000,6.8,19990,Honor,128,33,Snapdragon 680 Octa Core,8,108
+562,Honor 70 Lite 5G,4.65,71,4,5000,6.5,19990,Honor,128,22,Snapdragon  480+ Octa Core,8,50
+563,Honor X8a,4.05,78,6,4500,6.7,18999,Honor,128,22,Helio G88 Octa Core,16,100
+564,Honor X40 GT Racing,4.25,83,12,4800,6.81,20499,Honor,256,66,Snapdragon 888 Octa Core,16,50
+565,Honor Play 8T Pro,4.65,72,8,5000,6.72,20999,Honor,128,44,Dimensity 7030 Octa Core Processor,16,50
+566,Honor 200 Lite,4.65,86,8,4500,6.7,29990,Honor,256,35,Dimensity 6080 Octa Core,50,108
+567,Honor 100 5G,4.0,85,12,5000,6.7,29990,Honor,256,100,Snapdragon 7 Gen3 Octa Core,50,50
+568,Honor 90 GT,4.05,84,12,5000,6.7,29990,Honor,256,100,Snapdragon 8 Gen2 Octa Core,16,50
+569,Honor 70 SE 5G,4.7,77,8,4700,6.72,29990,Honor,128,80,Dimensity 7050 Octa Core,16,50
+570,Honor X9a,4.6,82,8,5100,6.67,27999,Honor,256,40,Snapdragon 695 Octa Core,16,64
+572,Honor 80 SE,4.65,83,8,4600,6.67,27990,Honor,256,66,Dimensity 900 Octa Core,32,64
+573,Honor 90 5G ,4.45,89,12,5000,6.7,27199,Honor,512,66,Snapdragon 7 Gen 1 Accelerated Edition Octa Core,50,200
+574,Honor 70 5G ,4.5,86,8,4800,6.67,30990,Honor,256,66,Snapdragon  778G Plus Octa Core,32,54
+575,Honor 80,4.05,87,8,4800,6.67,30999,Honor,256,66,Snapdragon 782G Octa Core,32,160
+576,Honor Magic 5 Lite,4.75,80,6,5100,6.67,31999,Honor,128,40,Snapdragon 695 Octa Core,16,64
+577,Honor X50 Pro,4.7,84,12,5800,6.78,32990,Honor,256,33,Snapdragon 8+ Gen1 Octa Core,8,108
+578,Honor 50,4.3,85,6,4300,6.57,32990,Honor,128,66,Snapdragon 778G Octa Core,32,108
+579,Honor 200,4.65,87,12,5000,6.7,34990,Honor,256,100,Snapdragon 8s Gen3 Octa Core,50,50
+580,Honor 100 Pro,4.7,88,12,5000,6.78,39990,Honor,256,100,Snapdragon 8 Gen2 Octa Core,50,50
+581,Honor 80 Pro Flat,4.65,89,12,4800,6.67,39990,Honor,256,66,Snapdragon 8+ Gen1 Octa Core,32,160
+582,Honor 80 GT,4.7,85,12,4800,6.67,38999,Honor,256,66,Snapdragon 8+ Gen1 Octa Core,16,54
+583,Honor Magic 6 Lite,4.15,84,8,5300,6.78,34999,Honor,256,35,Snapdragon 6 Gen 1 Octa Core,16,108
+584,Honor 70 Pro 5G,4.15,88,8,4500,6.78,42999,Honor,256,100,Dimensity 8000 Octa Core,50,54
+585,Honor 80 Pro,4.2,89,8,4800,6.78,43990,Honor,256,66,Snapdragon 8+ Gen1 Octa Core,50,160
+586,Honor 200 Pro,4.4,89,12,5000,6.8,44990,Honor,256,120,Snapdragon 8 Gen3 Octa Core,50,108
+587,Honor V40 Pro,4.05,87,8,4100,6.57,44990,Honor,128,40,Exynos 1080 Octa Core,32,40
+588,Honor 100 GT,4.35,87,12,4800,6.78,44999,Honor,256,66,Snapdragon 8 Gen2 Octa Core,32,64
+589,Honor 70 Pro Plus 5G,4.15,89,8,4500,6.78,49990,Honor,256,100,Dimensity 9000 Octa Core,50,54
+590,Honor 50 Pro Plus,4.75,89,8,4400,6.57,49999,Honor,128,66,Snapdragon 888 Octa Core,32,50
+591,Honor Magic 6,4.15,91,12,5450,6.78,51999,Honor,256,66,Snapdragon 8 Gen3 Octa Core,50,50
+592,Honor 80 Pro Plus,4.45,91,12,4500,6.78,54990,Honor,256,100,Snapdragon 8 Gen1 Octa Core,50,200
+593,Honor V40 Pro Plus,4.6,88,8,4100,6.57,54990,Honor,128,40,Snapdragon 888 Octa Core,32,40
+594,Honor 90 Pro,4.2,91,12,5000,6.78,55990,Honor,256,90,Snapdragon 8+ Gen1 Octa Core,50,200
+595,Honor Magic V2 Lite,4.25,84,8,5000,6.81,56999,Honor,128,66,Snapdragon 8+ Gen1 Octa Core,16,50
+596,Honor Magic 6 Pro,4.55,95,12,5400,6.8,66499,Honor,256,8,Snapdragon 8 Gen3 Octa Core,50,180
+598,Honor Magic 5 Ultimate,4.75,93,16,5450,6.81,77990,Honor,512,66,Snapdragon 8 Gen2 Octa Core,12,50
+599,Honor Magic 6 Ultimate,4.3,96,16,5600,6.8,79990,Honor,512,80,Snapdragon 8 Gen3 Octa Core,50,180
+601,Honor Magic 5,4.7,90,12,5100,6.73,79999,Honor,256,66,Snapdragon 8 Gen2 Octa Core,12,54
+602,Honor Magic 4 Pro 5G,4.4,91,8,4600,6.81,89990,Honor,256,100,Snapdragon  8 Gen1 Octa Core,12,50
+604,Honor Magic4 Ultimate 5G,4.3,94,12,4600,6.81,94990,Honor,512,100,Snapdragon 8 Gen1 Octa Core,12,50
+605,Honor Magic 4 Pro Plus 5G,4.1,94,12,4600,6.76,94990,Honor,512,120,Snapdragon 8 Gen1 Octa Core,13,50
+611,Honor Magic 6 RSR,4.7,98,24,5600,6.8,114990,Honor,1,80,Snapdragon 8 Gen3 Octa Core,50,180
+613,Honor Magic 5 Pro,4.45,92,12,5100,6.81,103999,Honor,512,66,Snapdragon 8 Gen2 Octa Core,12,50
+614,Nothing Phone 2a,4.25,86,8,5000,6.7,23999,Nothing,128,45,Dimensity 7200 Pro Octa Core,32,50
+615,Nothing Phone 1 Lite,4.1,80,6,5000,6.55,24990,Nothing,128,33,Snapdragon 778G Plus Octa Core,16,50
+616,Nothing Phone 2a ,4.35,86,8,5000,6.7,25999,Nothing,256,45,Dimensity 7200 Pro Octa Core,32,50
+617,Nothing Phone 3a,4.25,77,8,5000,6.72,27990,Nothing,128,65,Snapdragon 7+ Gen3 Octa Core Processor,32,64
+618,Nothing Phone 2a ,4.25,87,12,5000,6.7,27999,Nothing,256,45,Dimensity 7200 Pro Octa Core,32,50
+619,Nothing Phone 1,3.95,85,8,4500,6.55,31999,Nothing,128,33,Snapdragon 778G Plus Octa Core,16,50
+620,Nothing Phone 1 ,4.75,86,8,4500,6.55,33999,Nothing,256,33,Snapdragon 778G Plus Octa Core,16,50
+621,Nothing Phone 1 ,4.05,86,12,4500,6.55,36999,Nothing,256,33,Snapdragon 778G Plus Octa Core,16,50
+622,Nothing Phone 2,4.0,88,8,4700,6.7,37999,Nothing,128,45,Snapdragon 8+ Gen1 Octa Core,32,50
+623,Nothing Phone 2 ,4.7,89,12,4700,6.7,40299,Nothing,512,45,Snapdragon 8+ Gen1 Octa Core,32,50
+624,Nothing Phone 2 ,4.05,89,12,4700,6.7,40999,Nothing,256,45,Snapdragon 8+ Gen1 Octa Core,32,50
+625,Nothing Phone 3,4.35,88,8,5000,6.67,45990,Nothing,128,100,Snapdragon 8s Gen3 Octa Core,32,64
+628,Google Pixel 3a,4.45,66,4,3000,5.6,13999,Google,64,18,Qualcomm Snapdragon 670 Octa Core,8,12
+630,Google Pixel 5A,4.15,78,6,4620,6.34,32999,Google,128,18,Snapdragon 765G Octa Core,8,16
+631,Google Pixel 7A,4.7,86,8,4385,6.1,37999,Google,128,18,Tensor G2 Octa Core,13,64
+633,Google Pixel 7 5G,4.4,85,8,4355,6.3,46999,Google,128,30,Google Tensor G2 Octa Core,10,50
+634,Google Pixel 9A,4.4,78,8,4700,6.3,49990,Google,128,44,Tensor G3 Octa Core Processor,13,108
+636,Google Pixel 9,4.15,77,8,5000,6.03,59990,Google,256,45,Google Tensor 4 Octa Core Processor,12,50
+638,Google Pixel 7 Pro 5G,4.45,89,12,5000,6.7,62999,Google,128,30,Google  Tensor G2 Octa Core,10,50
+639,Google Pixel 8 5G,4.5,77,8,4575,6.2,69999,Google,128,30,Tensor G3 Nine Core,10,50
+640,Google Pixel 8 ,4.1,78,8,4575,6.2,69999,Google,256,30,Tensor G3 Nine Core,10,50
+642,Google Pixel 7 Ultra,4.2,90,12,5000,6.7,89999,Google,128,30,Google Tensor G2 Octa Core,10,64
+643,Google Pixel 9 Pro,4.45,83,12,5000,6.1,94990,Google,256,45,Google Tensor G4 Octa Core Processor,50,50
+645,Google Pixel 8 Pro,4.7,81,12,5050,6.7,101999,Google,128,30,Tensor G3 Nine Cores,10,50
+646,Google Pixel 8 Pro ,4.15,82,12,5050,6.7,108999,Google,256,30,Tensor G3 Nine Cores,10,50
+647,Google Pixel 9 Pro XL,4.35,84,12,5300,6.71,109990,Google,256,45,Google Tensor G4 Octa Core Processor,50,50
+648,Google Pixel Notepad,4.45,83,12,5003,8.3,125990,Google,128,30,Google Tensor 2 Octa Core Processor,12,50
+651,itel S16 Pro,4.55,57,2,4000,6.6,6990,itel,32,52,Quad Core 1.3 GHz Processor,8,8
+652,itel P55 4G,4.1,68,4,5000,6.6,6999,itel,128,18,Unisoc T606 Octa Core,8,50
+653,itel A70 4G ,4.6,61,4,5000,6.6,7190,itel,256,10,Unisoc T603 Octa Core Processor,8,13
+654,Itel P40 Plus,4.55,63,4,7000,6.8,7299,Itel,128,18, Unisoc T606 Octa Core,8,13
+655,Itel Vision 2,4.15,60,2,4000,6.6,7299,Itel,32,52,Octa Core 1.6 GHz Processor,8,13
+656,itel P55 4G ,4.4,73,8,5000,6.6,7309,itel,128,18,Unisoc T606 Octa Core,8,50
+657,itel P55T,4.6,67,4,6000,6.56,7394,itel,128,18,Unisoc T606 Octa Core,8,50
+658,itel RS4,4.55,72,8,5000,6.56,8990,itel,128,45,Helio G99 Octa Core,8,50
+659,itel P55 Plus,4.1,74,8,5000,6.6,9999,itel,256,45,Unisoc T606 Octa Core,8,50
+660,Asus 10Z 5G,4.3,77,8,4200,6.52,49990,Asus,128,120,Snapdragon  8 Gen1 Plus Octa Core Processor,12,50
+661,Asus ROG Phone 6s 5G,4.3,87,8,6000,6.78,52999,Asus,128,65,Snapdragon 8 Gen1 Octa Core,24,64
+662,Asus 9Z 5G,4.35,86,8,4300,5.9,59999,Asus,128,30,Snapdragon 8+ Gen1 Octa Core,12,50
+663,Asus ZenFone 9,4.75,86,8,4300,5.9,63990,Asus,128,30,Snapdragon 8+ Gen1 Octa Core,12,50
+664,Asus ROG Phone 3 ,4.65,89,16,6000,6.59,64999,Asus,512,30,Snapdragon 865+ Octa Core,24,64
+665,Asus Zenfone 10,4.15,89,8,4300,5.92,70990,Asus,128,30,Snapdragon 8 Gen2 Octa Core,32,50
+666,Asus ROG Phone 6D,4.55,88,16,6000,6.78,71990,Asus,256,65,Dimensity 9000 Plus Octa Core,12,50
+667,Asus ROG Phone 6,4.7,86,12,6000,6.78,71999,Asus,256,65,Snapdragon 8+ Gen1 Octa Core,12,50
+668,Asus ROG Phone 6 Batman Edition,4.65,88,16,6000,6.78,72999,Asus,256,65,Dimensity 9000 Plus Octa Core,12,50
+669,Asus Zenfone 11,4.3,89,8,4500,6.0,74990,Asus,128,30,Snapdragon 8 Gen3 Octa Core,32,50
+670,Asus ROG Phone 7,4.35,91,16,6000,6.78,74999,Asus,512,65,Snapdragon 8 Gen2 Octa Core,32,50
+673,Asus ROG Phone 8 Pro,4.45,93,16,5500,6.78,94999,Asus,512,65,Snapdragon 8 Gen3 Octa Core,32,50
+674,Asus ROG Phone 7 Pro,4.3,88,18,6000,6.78,94990,Asus,512,65,Snapdragon 8 Gen2 Octa Core,12,50
+675,Asus ROG Phone 6 Pro 5G,4.75,88,18,6000,6.78,89999,Asus,512,65,Snapdragon 8+ Gen1 Octa Core,12,50
+676,Asus ROG Phone 8,4.55,91,12,5500,6.78,89990,Asus,256,65,Snapdragon 8 Gen3 Octa Core,32,50
+677,Asus ROG Phone 6s Pro 5G,4.0,89,18,6000,6.78,82999,Asus,512,80,Snapdragon  8 Gen1 Octa Core,24,64
+678,Asus Zenfone 11 Ultra,4.0,92,12,5500,6.78,81990,Asus,256,65,Snapdragon 8 Gen3 Octa Core,32,50
+679,Asus ROG Phone 5s Pro 5G,4.45,89,18,6000,6.78,79999,Asus,512,65,Snapdragon  888+ Octa Core,24,64
+680,Asus ROG Phone 7D,4.6,89,16,6000,6.78,79990,Asus,256,65,Snapdragon 8 Gen2 Octa Core,12,108
+681,LG K31s,4.45,61,2,3900,6.26,9499,LG,32,52,Helio P22 Octa Core,8,13
+683,LG Velvet 2 Pro,4.55,85,6,4300,6.8,49999,LG,128,25,Snapdragon  765G Octa Core,16,48
+684,LG Velvet 5G,4.3,85,6,4300,6.8,54999,LG,128,25,Snapdragon  765G Octa Core,16,48
+687,Lenovo A6 Note,4.3,64,3,4000,6.09,7124,Lenovo,32,10,Helio  P22 Octa Core,5,13
+688,Lenovo K8 Plus,4.3,64,3,4000,5.2,7290,Lenovo,32,52,Helio P25 Octa Core,8,13
+689,Lenovo A7,4.25,61,4,4000,6.09,7499,Lenovo,64,52,Octa Core 1.6 GHz Processor,5,13
+691,Lenovo K15 Plus,4.65,75,4,5000,6.53,9990,Lenovo,64,20,Helio G37 Octa Core,16,50
+692,Lenovo K14,4.6,61,3,5000,6.5,9499,Lenovo,32,52,Octa Core 1.6 GHz Processor,8,13
+693,Lenovo K14 Note,4.3,72,4,5000,6.5,11490,Lenovo,128,18,Snapdragon 460 Octa Core,13,48
+694,Lenovo K13 Pro,4.75,75,4,5000,6.51,13990,Lenovo,64,15,Snapdragon 662 Octa Core,13,64
+695,Lenovo Legion Y70,4.15,84,8,5100,6.67,34990,Lenovo,128,68,Snapdragon  8+ Gen1 Octa Core,16,50
+696,Lenovo Legion Y90,4.0,87,12,5600,6.92,46990,Lenovo,256,68,Snapdragon  8 Gen1 Octa Core,16,64
+697,Lenovo Legion Halo,4.7,87,16,5600,6.67,49990,Lenovo,256,68,Snapdragon 8+ Gen1 Octa Core,16,50
+698,Lenovo Legion Phone 3 5G,4.45,88,12,5500,6.92,54990,Lenovo,256,125,Snapdragon 8 Gen1 Octa Core,44,64
+699,Lenovo Legion Pro 2,4.6,89,16,5000,6.5,59999,Lenovo,512,120,Snapdragon 888 Octa Core,20,64
+700,Lenovo Legion Duel 3 5G,4.75,88,12,5000,6.92,64999,Lenovo,256,120,Snapdragon 8 Gen1 Octa Core,44,64
+701,Gionee M12 Pro,4.7,67,6,4000,6.2,7499,Gionee,128,52,Helio P60 Octa Core,13,16
+702,Gionee G14 Pro,4.15,59,4,4000,6.67,7990,Gionee,64,52,Tiger T610 Octa Core,8,13
+703,Gionee P50 Pro,4.7,60,4,3900,6.5,7990,Gionee,64,52,Tiger T310 Quad Core,5,13
+704,Gionee M3,4.5,69,6,5000,6.53,11990,Gionee,128,18,Helio P60 Octa Core,8,16
+705,Gionee F1 Plus,4.3,63,6,4000,6.5,13990,Gionee,128,10,Tiger  T610 Octa Core,5,13
+706,Samsung Galaxy A05,4.7,70,4,5000,6.7,7999,Samsung,64,25,Helio G85 Octa Core,8,50
+707,Samsung Galaxy M14 4G,4.4,74,4,5000,6.72,8199,Samsung,64,25,Snapdragon 680 Octa Core,13,50
+708,Samsung Galaxy M14 4G ,4.05,77,6,5000,6.72,9499,Samsung,128,25,Snapdragon 680 Octa Core,13,50
+709,Samsung Galaxy F04,4.7,68,4,5000,6.5,7999,Samsung,64,15,Helio P35 Octa Core,5,13
+710,Samsung Galaxy A14 4G,4.35,74,4,5000,6.6,9099,Samsung,64,15,Exynos  850 Octa Core,13,50
+711,Samsung Galaxy M04,4.65,66,4,5000,6.5,7599,Samsung,64,15,Helio P35 Octa Core,5,13
+713,Samsung Galaxy A03 Core,4.05,54,2,5000,6.5,7899,Samsung,32,52,Unisoc  SC9836A Quad Core,5,8
+714,Samsung Galaxy A03s,4.1,67,3,5000,6.5,7499,Samsung,32,15,Helio P35 Octa Core,5,13
+715,Samsung Galaxy A01,4.05,60,2,3000,5.7,7999,Samsung,16,52,Snapdragon  439 Octa Core,5,13
+716,Samsung Galaxy A04e ,4.15,66,3,5000,6.5,8499,Samsung,64,52,Helio P35 Octa Core,5,13
+717,Samsung Galaxy M13 ,4.75,71,4,6000,6.6,8999,Samsung,64,15,Exynos  850 Octa Core,8,50
+718,Samsung Galaxy A03,4.45,67,3,5000,6.5,9499,Samsung,32,15,Unisoc  T606 Octa Core,5,48
+719,Samsung Galaxy J2 Prime,4.0,49,1,2600,5.0,8999,Samsung,8,52,Helio MT6737T Quad Core,5,8
+721,Samsung Galaxy M04 ,4.3,68,4,5000,6.5,8899,Samsung,128,15,Helio P35 Octa Core,5,13
+722,Samsung Galaxy A04 Core,4.2,64,3,5000,6.5,8990,Samsung,32,18,Helio P35 Octa Core,5,13
+723,Samsung Galaxy F02s ,4.3,68,4,5000,6.5,8690,Samsung,64,15,Snapdragon  450  Octa Core,5,13
+724,Samsung Galaxy M14 ,4.15,79,6,6000,6.6,11110,Samsung,128,25,Exynos 1330 Octa Core,13,50
+725,Samsung Galaxy M15 5G,4.15,76,4,6000,6.45,11450,Samsung,128,25,Dimensity 6100 Plus Octa Core,13,50
+726,Samsung Galaxy F14 5G ,4.2,71,6,6000,6.6,11000,Samsung,128,25,Exynos 1330 Octa Core Processor,13,50
+727,Samsung Galaxy M14,4.7,77,4,6000,6.6,10631,Samsung,128,25,Exynos 1330 Octa Core,13,50
+728,Samsung Galaxy A05s ,4.75,75,4,5000,6.7,10999,Samsung,128,25,Snapdragon 680 Octa Core,13,50
+729,Samsung Galaxy A05 ,4.7,74,6,5000,6.7,10390,Samsung,128,25,Helio G85 Octa Core,8,50
+730,Samsung Galaxy A04e ,4.3,69,4,5000,6.5,10499,Samsung,128,52,Helio P35 Octa Core,5,13
+731,Samsung Galaxy A04s,4.55,70,4,5000,6.5,10299,Samsung,64,15,Exynos 850 Octa Core,5,50
+732,Samsung Galaxy A04s ,4.4,72,4,5000,6.5,10900,Samsung,128,15,Exynos 850 Octa Core,5,50
+733,Samsung Galaxy M13 5G ,4.35,71,4,5000,6.5,10990,Samsung,64,15,Dimensity 700 Octa Core,5,50
+734,Samsung Galaxy M12,4.4,72,4,6000,6.5,10999,Samsung,64,15,Exynos  850 Octa Core,8,48
+735,Samsung Galaxy A03 ,4.5,70,4,5000,6.5,10490,Samsung,64,15,Unisoc  T606 Octa Core,5,48
+736,Samsung Galaxy F34 5G,4.7,83,6,6000,6.5,12999,Samsung,128,25,Exynos 1280 Octa Core,13,50
+737,Samsung Galaxy F15 5G,4.35,75,4,6000,6.45,12999,Samsung,128,25,Dimensity 6100 Plus Octa Core,13,50
+738,Samsung Galaxy M34 5G,3.95,82,6,6000,6.5,13999,Samsung,128,25,Exynos 1280  Octa Core,13,50
+739,Samsung Galaxy M15 5G ,4.05,79,6,6000,6.45,12332,Samsung,128,25,Dimensity 6100 Plus Octa Core,13,50
+740,Samsung Galaxy F15 5G ,4.15,77,6,6000,6.45,13429,Samsung,128,25,Dimensity 6100 Plus Octa Core,13,50
+741,Samsung Galaxy A14 5G ,4.65,82,8,5000,6.6,13599,Samsung,128,15,Exynos 1330 Octa Core,13,50
+742,Samsung Galaxy A05s,4.1,78,6,5000,6.7,12490,Samsung,128,25,Snapdragon 680 Octa Core,13,50
+743,Samsung Galaxy A14 5G ,4.65,76,4,5000,6.6,14199,Samsung,128,15,Exynos 1330 Octa Core,13,50
+744,Samsung Galaxy A13 ,4.45,75,4,5000,6.6,12990,Samsung,128,25,Octa Core 2 GHz Processor,8,50
+746,Samsung Galaxy M15 5G ,4.15,81,8,6000,6.45,15999,Samsung,128,25,Dimensity 6100 Plus Octa Core,13,50
+747,Samsung Galaxy F35 5G,4.45,75,6,6000,6.5,17990,Samsung,128,25,Exynos Octa Core Processor,16,50
+748,Samsung Galaxy F15 5G ,4.2,80,8,6000,6.45,15999,Samsung,128,25,Dimensity 6100 Plus Octa Core,13,50
+749,Samsung Galaxy M34 5G ,4.0,84,8,6000,6.5,15982,Samsung,128,25,Exynos 1280  Octa Core,13,50
+750,Samsung Galaxy M16,4.45,76,8,7000,6.73,16990,Samsung,128,35,Exynos Octa Core Processor,32,64
+751,Samsung Galaxy A15 5G ,4.25,79,6,5000,6.5,17900,Samsung,128,25,Dimensity 6100 Plus Octa Core,13,50
+752,Samsung Galaxy A23 5G,4.65,79,6,5000,6.6,17499,Samsung,128,25,Snapdragon 695 Octa Core,8,50
+753,Samsung Galaxy A15 4G,4.35,80,8,5000,6.5,16990,Samsung,128,25,Helio G99 Octa Core,13,50
+754,Samsung Galaxy A16,4.55,70,4,5000,6.67,16990,Samsung,128,25,Exynos Octa Core Processor,16,50
+755,Samsung Galaxy F23 5G ,4.5,80,6,5000,6.6,17999,Samsung,128,25,Snapdragon  750G Octa Core,8,50
+757,Samsung Galaxy A14 5G ,4.75,79,6,5000,6.6,15999,Samsung,128,15,Exynos 1330 Octa Core,13,50
+758,Samsung Galaxy A24,4.0,79,6,5000,6.5,17999,Samsung,128,25,Helio G99 Octa Core,13,50
+759,Samsung Galaxy M24,4.3,75,4,5000,6.4,15999,Samsung,128,18,Helio G88 Octa Core,13,48
+760,Samsung Galaxy M33 5G,4.3,81,6,6000,6.6,17999,Samsung,128,25,Exynos  1280 Octa Core,8,50
+761,Samsung Galaxy F55 5G,4.6,87,8,5000,6.7,26990,Samsung,128,45,Snapdragon 7 Gen1 Octa Core,50,50
+762,Samsung Galaxy M55,4.55,86,8,5000,6.67,24999,Samsung,128,45,Snapdragon 7 Gen1 Octa Core,50,50
+763,Samsung Galaxy F54,4.05,89,8,6000,6.7,22863,Samsung,256,25,Exynos 1380 Octa Core,32,108
+764,Samsung Galaxy A35 5G,4.65,85,8,5000,6.6,27899,Samsung,128,25,Exynos 1380 Octa Core,13,50
+765,Samsung Galaxy C55 5G,4.1,87,8,5000,6.7,24990,Samsung,256,45,Snapdragon 7 Gen1 Octa Core,50,50
+766,Samsung Galaxy M55 ,4.55,87,8,5000,6.67,26690,Samsung,256,45,Snapdragon 7 Gen1 Octa Core,50,50
+767,Samsung Galaxy M34 5G ,4.1,85,8,6000,6.5,25171,Samsung,256,25,Exynos 1280  Octa Core,13,50
+768,Samsung Galaxy A25 5G,4.05,84,8,5000,6.5,21499,Samsung,128,25,Exynos 1280 Octa Core,13,50
+769,Samsung Galaxy A34 5G ,4.0,86,8,5000,6.6,24499,Samsung,128,25,Dimensity 1080 Octa Core,13,48
+770,Samsung Galaxy M52 5G,4.55,83,6,5000,6.7,21390,Samsung,128,25,Snapdragon 778G Octa Core,32,64
+771,Samsung Galaxy F64 5G,4.35,85,6,7000,6.7,24999,Samsung,128,33,Dimensity 900 Octa Core,32,64
+772,Samsung Galaxy A53 5G ,4.65,89,8,5000,6.5,26899,Samsung,128,25,Exynos 1280 Octa Core,32,64
+773,Samsung Galaxy A15 5G ,4.55,82,8,5000,6.5,22492,Samsung,256,25,Dimensity 6100 Plus Octa Core,13,50
+774,Samsung Galaxy A25 5G ,4.25,85,8,5000,6.5,23999,Samsung,256,25,Exynos 1280 Octa Core,13,50
+775,Samsung Galaxy A34 5G ,4.7,86,8,5000,6.6,26499,Samsung,256,25,Dimensity 1080 Octa Core,13,48
+776,Samsung Galaxy S23 FE 5G,4.55,85,8,4500,6.4,36880,Samsung,128,25,Exynos 2200 Octa Core,10,50
+777,Samsung Galaxy A55 5G,4.35,88,8,5000,6.6,36999,Samsung,128,25,Exynos 1480 Octa Core,32,50
+778,Samsung Galaxy S21 FE ,4.35,87,8,4500,6.4,33779,Samsung,256,25,Snapdragon 888 Octa Core,32,12
+779,Samsung Galaxy S22 5G,4.65,86,8,3700,6.1,36999,Samsung,128,25,Snapdragon  8 Gen1 Octa Core,10,50
+780,Samsung Galaxy S21 FE 5G,4.7,86,8,4500,6.4,32883,Samsung,128,25,Exynos 2100 Octa Core,32,12
+781,Samsung Galaxy A54 5G,4.55,88,8,5000,6.4,33499,Samsung,128,25,Exynos 1380 Octa Core,32,50
+782,Samsung Galaxy S21 FE ,4.1,86,8,4500,6.4,29999,Samsung,128,25,Snapdragon 888 Octa Core,32,12
+783,Samsung Galaxy A54 5G ,4.55,89,8,5000,6.4,35499,Samsung,256,25,Exynos 1380 Octa Core,32,50
+784,Samsung Galaxy M56,4.5,79,8,5000,6.82,34990,Samsung,128,50,Exynos 1480 Octa Core Processor,32,108
+785,Samsung Galaxy S23 FE 5G ,4.0,87,8,4500,6.4,41740,Samsung,256,25,Exynos 2200 Octa Core,10,50
+786,Samsung Galaxy A56,4.3,80,8,5000,6.72,43990,Samsung,128,45,Exynos Octa Core Processor,32,64
+787,Samsung Galaxy S25 Ultra,4.15,84,12,5100,6.83,124990,Samsung,256,65,Snapdragon 8 Gen4 Octa Core Processor,60,200
+788,Samsung Galaxy S23 Ultra 5G,4.05,94,12,5000,6.8,89748,Samsung,256,45,Snapdragon 8 Gen 2 Octa Core,12,200
+789,Samsung Galaxy S24 5G,4.25,89,8,4000,6.2,79999,Samsung,256,25,Exynos 2400 Deca Core,12,50
+790,Samsung Galaxy S22 Ultra 5G,4.6,93,12,5000,6.8,99999,Samsung,256,45,Snapdragon  8 Gen1 Octa Core,40,108
+791,Samsung Galaxy S25,4.35,82,12,4800,6.73,74990,Samsung,256,67,Snapdragon 8 Gen4 Octa Core Processor,12,108
+792,Samsung Galaxy S24 Plus,4.15,89,12,4900,6.7,99999,Samsung,256,45,Exynos 2400 Deca Core,12,50
+793,Samsung Galaxy S23 Ultra ,4.45,94,12,5000,6.8,104999,Samsung,512,45,Snapdragon 8 Gen 2 Octa Core,12,200
+794,Samsung Galaxy S22 Ultra 5G ,4.2,94,12,5000,6.8,81999,Samsung,512,45,Snapdragon  8 Gen1 Octa Core,40,108
+795,Samsung Galaxy S21 Ultra,4.25,93,12,5000,6.8,105999,Samsung,256,25,Exynos  2100 Octa Core,40,108
+796,Samsung Galaxy S20 Ultra,4.05,94,12,5000,6.9,103000,Samsung,128,45,Exynos 990 Octa Core,40,108
+797,Samsung Galaxy S24 ,4.65,88,8,4000,6.2,74999,Samsung,128,25,Exynos 2400 Deca Core,12,50
+798,Vivo Y18,4.15,72,4,5000,6.56,8999,Vivo,128,15,Helio G85 Octa Core,8,50
+799,Vivo U3x,4.15,71,6,5000,6.58,8990,Vivo,64,18,Snapdragon  480  Octa Core,8,13
+800,Vivo Y16 ,4.2,68,4,5000,6.51,8999,Vivo,64,10,Helio P35 Octa Core,5,13
+801,Vivo Y02t 4G,4.2,64,4,5000,6.51,8980,Vivo,64,18,Helio P35 Octa Core,5,8
+802,Vivo Y02 ,4.5,53,2,5000,6.51,8999,Vivo,32,10,Helio Octa Core Processor,5,8
+803,Vivo Y02,4.35,54,3,5000,6.51,8489,Vivo,32,10,Helio Octa Core Processor,5,8
+804,Vivo Y15s,4.05,66,3,5000,6.51,8660,Vivo,32,52,Helio P35  Octa Core,8,13
+805,Vivo Y02t 4G,4.2,64,4,5000,6.51,9999,Vivo,64,18,Helio P35 Octa Core,5,8
+806,Vivo T3x 5G,4.2,75,4,6000,6.72,13499,Vivo,128,44,Snapdragon 6 Gen1 Octa Core,8,50
+807,Vivo T2x 5G ,4.4,78,6,5000,6.58,12999,Vivo,128,18,Dimensity 6020 Octa Core,8,50
+808,Vivo Y28 5G,4.35,75,4,5000,6.56,13999,Vivo,128,15,Dimensity 6020 Octa Core,8,50
+809,Vivo Y36 4G,4.45,80,8,5000,6.64,12749,Vivo,128,44,Snapdragon 680 Octa Core,16,50
+810,Vivo Y78t,4.2,77,8,6000,6.64,12990,Vivo,128,44,Snapdragon 6 Gen1 Octa Core,8,50
+811,Vivo Y35,4.1,79,8,5000,6.58,13950,Vivo,128,44,Snapdragon 680 Octa Core,16,50
+813,Vivo T1 44W,4.7,77,4,5000,6.44,14499,Vivo,128,44,Snapdragon 680 Octa Core,16,50
+814,Vivo Y27s,4.2,79,8,5000,6.64,12990,Vivo,128,44,Snapdragon  680 Octa Core,8,50
+815,Vivo Y56 5G ,4.3,78,4,5000,6.58,14499,Vivo,128,18,Dimensity 700 5G Octa Core,16,50
+816,Vivo T3x 5G ,4.2,80,8,6000,6.72,16499,Vivo,128,44,Snapdragon 6 Gen1 Octa Core,8,50
+817,Vivo Y23,4.4,73,4,5000,6.6,15990,Vivo,128,18,Helio G85 Octa Core,8,50
+818,Vivo T2 5G,4.75,79,6,4500,6.38,15999,Vivo,128,44,Snapdragon 695 Octa Core,16,64
+819,Vivo Y28 5G ,4.05,77,6,5000,6.56,15499,Vivo,128,15,Dimensity 6020 Octa Core,8,50
+820,Vivo Y56,4.3,83,8,5000,6.58,16299,Vivo,128,18,Dimensity 700 5G Octa Core,16,50
+821,Vivo Y200t,4.3,81,8,6000,6.72,15990,Vivo,128,44,Snapdragon 6 Gen1 Octa Core,8,50
+822,Vivo Y28 5G ,4.6,79,8,5000,6.56,16999,Vivo,128,15,Dimensity 6020 Octa Core,8,50
+823,Vivo T1 44W ,4.0,79,6,5000,6.44,17999,Vivo,128,44,Snapdragon 680 Octa Core,16,50
+824,Vivo Y78 Plus,4.55,74,8,5000,6.78,17990,Vivo,128,44,Snapdragon 695 Octa Core,8,50
+825,Vivo T2 5G ,4.6,82,8,4500,6.38,17999,Vivo,128,44,Snapdragon 695 Octa Core,16,64
+826,Vivo Y100A,4.3,82,8,4500,6.38,17995,Vivo,128,44,Snapdragon 695 Octa Core,16,64
+827,Vivo T1 5G ,4.45,80,6,5000,6.58,15190,Vivo,128,18,Snapdragon  695 Octa Core,16,50
+828,Vivo Y57,4.1,82,8,5000,6.6,18990,Vivo,128,33,Dimensity 6020 Octa Core,16,50
+829,Vivo V30e 5G,4.7,86,8,5500,6.78,27999,Vivo,128,44,Snapdragon 6 Gen1 Octa Core,50,50
+830,Vivo T4 5G,4.15,86,8,5000,6.6,24990,Vivo,128,80,Snapdragon 7+ Gen2 Octa Core,32,108
+831,Vivo T2 Pro 5G,4.4,81,8,4600,6.78,23999,Vivo,128,66,Dimensity 7200 Octa Core,16,64
+832,Vivo V29e,4.6,85,8,5000,6.78,23499,Vivo,128,44,Snapdragon  695 Octa Core,50,64
+833,Vivo T3 5G ,4.55,83,8,5000,6.67,21999,Vivo,256,44,Dimensity 7200 Octa Core,16,50
+834,Vivo Y200 5G,4.05,81,8,4800,6.67,21999,Vivo,128,44,Snapdragon 4 Gen1 Octa Core,16,64
+835,Vivo T2 Pro 5G ,4.5,82,8,4600,6.78,24999,Vivo,256,66,Dimensity 7200 Octa Core,16,64
+836,Vivo Y200 5G ,4.75,82,8,4800,6.67,21499,Vivo,256,44,Snapdragon 4 Gen1 Octa Core,16,64
+837,Vivo Y27 5G,4.3,76,4,5000,6.64,20999,Vivo,128,15,Dimensity 6020 Octa Core,8,50
+838,Vivo Y200e 5G ,4.65,81,8,5000,6.67,20999,Vivo,128,44,Snapdragon 4 Gen2 Octa Core,16,50
+839,Vivo V29e ,4.2,86,8,5000,6.78,25299,Vivo,256,44,Snapdragon  695 Octa Core,50,64
+840,Vivo V25 5G,4.65,83,8,4500,6.44,21490,Vivo,128,44,Dimensity  900 Octa Core,50,64
+841,Vivo Y200 GT,4.55,83,8,5000,6.67,24999,Vivo,128,44,Snapdragon 7 Gen3 Octa Core,16,50
+842,Vivo Y38 5G,4.5,80,8,6000,6.68,24990,Vivo,256,44,Snapdragon 4 Gen2 Octa Core,8,50
+843,Vivo Y100 5G,4.55,82,8,4500,6.38,20198,Vivo,128,44,Dimensity  900 Octa Core,16,64
+844,Vivo V30 5G,4.0,84,8,5000,6.78,30799,Vivo,128,80,Snapdragon 7 Gen3 Octa Core,50,50
+845,Vivo V31 5G,4.15,88,8,5000,6.7,35990,Vivo,128,100,Snapdragon 8+ Gen1 Octa Core,50,50
+846,Vivo V27,4.1,85,8,4600,6.78,32999,Vivo,128,66,Dimensity 7200 Octa Core,50,50
+847,Vivo V30 5G ,4.55,85,8,5000,6.78,35999,Vivo,256,80,Snapdragon 7 Gen3 Octa Core,50,50
+848,Vivo V29 Pro,4.4,84,8,4600,6.78,36199,Vivo,256,80,Dimensity  8200 Octa Core,50,50
+849,Vivo S19 Pro,4.35,89,12,5000,6.82,39990,Vivo,256,80,Dimensity 9200 Plus Octa Core,50,50
+850,Vivo V29 ,4.0,86,12,4600,6.78,33499,Vivo,256,80,Snapdragon 778G Octa Core,50,50
+851,Vivo V27 Pro,4.5,84,8,4600,6.78,37999,Vivo,128,66,Dimensity 8200 Octa Core,50,50
+852,Vivo V27 ,4.2,86,12,4600,6.78,36999,Vivo,256,66,Dimensity 7200 Octa Core,50,50
+853,Vivo V25 Pro ,4.35,86,12,4830,6.56,31899,Vivo,256,66,Dimensity 1300 Octa Core,32,64
+854,Vivo S18 Pro,4.65,88,12,5000,6.78,36990,Vivo,256,80,Dimensity 9200 Plus Octa Core,50,50
+855,Vivo V30 Pro ,4.65,88,12,5000,6.78,45215,Vivo,512,80,Dimensity 8200 Octa Core,50,50
+856,Vivo X100 5G ,4.7,92,16,5000,6.78,69999,Vivo,256,120,Dimensity 9300 Octa Core,32,64
+857,Vivo X90 Pro 5G,4.55,91,12,4870,6.78,68899,Vivo,256,120,Dimensity 9200 Octa Core,32,50
+858,Vivo X90 ,4.25,89,12,4810,6.78,63490,Vivo,256,120,Dimensity 9200 Octa Core,32,50
+859,Realme C53,4.55,75,4,5000,6.74,8349,Realme,128,18,Tiger T612 Octa Core,8,108
+860,Realme Narzo N53,4.75,70,4,5000,6.74,7820,Realme,64,33,Unisoc T612 Octa Core,8,50
+861,Realme C55 ,4.05,75,6,5000,6.72,8890,Realme,64,33,Helio G88 Octa Core,8,64
+862,Realme Narzo N53 ,4.25,74,6,5000,6.74,9478,Realme,128,33,Unisoc T612 Octa Core,8,50
+863,Realme Narzo N55 ,4.65,76,6,5000,6.72,9764,Realme,128,33,Helio G88 Octa Core,8,64
+864,Realme C55,4.0,73,4,5000,6.72,8999,Realme,64,33,Helio G88 Octa Core,8,64
+865,Realme C53 ,4.0,76,6,5000,6.74,9489,Realme,64,18,Tiger T612 Octa Core,8,108
+866,Realme C51 ,4.6,70,4,5000,6.74,8744,Realme,128,33,Unisoc T612 Octa Core,5,50
+867,Realme Narzo N55,4.4,73,4,5000,6.72,9800,Realme,64,33,Helio G88 Octa Core,8,64
+868,Realme C65 4G,4.45,63,4,5000,6.67,8990,Realme,64,15,Helio G96 Octa Core Processor,8,50
+869,Realme C31 ,4.6,65,4,5000,6.52,7290,Realme,64,52,Tiger T612 Octa Core,5,13
+870,Realme Narzo 60X,4.55,75,4,5000,6.72,11049,Realme,128,33,Dimensity 6100 Plus Octa Core,8,50
+871,Realme Narzo N55 ,4.65,76,6,5000,6.72,10190,Realme,128,33,Helio G88 Octa Core,8,64
+872,Realme Narzo N53 ,4.6,75,8,5000,6.74,10466,Realme,128,33,Unisoc T612 Octa Core,8,50
+873,Realme C35 ,4.4,75,6,5000,6.6,10990,Realme,128,18,Tiger  T616 Octa Core,8,50
+874,Realme Narzo 50,3.95,74,4,5000,6.6,10499,Realme,64,33,Helio G96 Octa Core,16,50
+875,Realme 9i,4.25,75,4,5000,6.6,10750,Realme,64,33,Snapdragon  680 Octa Core,16,50
+876,Realme Narzo 50A,4.4,71,4,6000,6.5,10899,Realme,64,18,Helio  G85 Octa Core,8,50
+877,Realme C35 ,4.6,72,4,5000,6.6,10999,Realme,128,18,Tiger  T616 Octa Core,8,50
+878,Realme Narzo 70x 5G ,4.7,77,6,5000,6.72,12877,Realme,128,45,Dimensity 6100 Plus Octa Core,8,50
+879,Realme 12X ,4.15,77,6,5000,6.72,13374,Realme,128,45,Dimensity 6100 Plus Octa Core,8,50
+880,Realme C65 5G ,4.6,75,6,5000,6.67,12499,Realme,128,15,Dimensity 6300 Octa Core,8,50
+881,Realme C55 ,4.65,79,8,5000,6.72,12900,Realme,128,33,Helio G88 Octa Core,8,64
+882,Realme 13x,4.05,78,6,5000,6.78,12999,Realme,128,67,Dimensity 6020 Octa Core,16,50
+883,Realme C67 5G ,4.15,78,6,5000,6.72,13489,Realme,128,33,Dimensity 6100 Plus Octa Core,8,50
+884,Realme Narzo 60,4.55,75,4,4500,6.59,12999,Realme,64,33,Helio G96 Octa Core,16,64
+885,Realme 8 ,4.35,81,6,5000,6.4,12990,Realme,128,30,Helio G95 Octa Core,16,64
+886,Realme C56,4.65,75,4,5000,6.74,12990,Realme,64,67,Helio G99 Octa Core,16,50
+887,Realme 7,4.6,78,6,5000,6.5,13999,Realme,64,30,Helio  G95 Octa Core,16,64
+888,Realme P1 5G,4.4,80,6,5000,6.67,15999,Realme,128,45,Dimensity 7050 Octa Core,16,50
+889,Realme Narzo 70 5G,4.0,80,6,5000,6.67,15323,Realme,128,45,Dimensity 7050 Octa Core,16,50
+890,Realme 12 Plus 5G,4.0,84,8,5000,6.67,18708,Realme,128,67,Dimensity 7050 Octa Core,16,50
+891,Realme Narzo 60 5G,4.25,82,8,5000,6.43,16485,Realme,128,33,Dimensity 6020 Octa Core,16,64
+892,Realme P1 5G ,4.55,83,8,5000,6.67,18398,Realme,256,45,Dimensity 7050 Octa Core,16,50
+893,Realme Narzo 70 Pro 5G,4.0,83,8,5000,6.67,18577,Realme,128,67,Dimensity 7050 Octa Core,16,50
+894,Realme 12 5G,4.4,78,6,5000,6.72,16499,Realme,128,45,Dimensity 6100 Plus Octa Core,8,108
+895,Realme Narzo 70 5G ,4.1,83,8,5000,6.67,16400,Realme,128,45,Dimensity 7050 Octa Core,16,50
+896,Realme P1 5G ,4.3,82,8,5000,6.67,16949,Realme,128,45,Dimensity 7050 Octa Core,16,50
+898,Realme P2 5G,4.2,85,8,5000,6.72,17990,Realme,128,67,Dimensity 7200 Octa Core,32,108
+899,Realme 11 5G ,4.65,84,8,5000,6.72,17949,Realme,256,67,Dimensity 6100 Plus Octa Core,16,108
+900,Realme 12 5G ,4.4,81,8,5000,6.72,16998,Realme,128,45,Dimensity 6100 Plus Octa Core,8,108
+901,Realme 11,4.75,83,8,5000,6.72,17789,Realme,128,67,Dimensity 6100 Plus Octa Core,16,108
+902,Realme 10 ,4.5,79,8,5000,6.4,16500,Realme,128,33,Helio G99 Octa Core,16,50
+903,Realme GT Neo 6,4.4,86,12,5500,6.78,24999,Realme,256,120,Snapdragon 8s Gen3 Octa Core,32,50
+904,Realme 12 Pro 5G,4.4,82,8,5000,6.7,21828,Realme,128,67,Snapdragon 6 Gen1 Octa Core,16,50
+905,Realme 12 Pro Plus,4.05,85,8,5000,6.7,27875,Realme,128,67,Snapdragon 7s Gen2 Octa Core,32,64
+906,Realme P1 Pro 5G,4.0,80,8,5000,6.7,21477,Realme,128,45,Snapdragon 6 Gen1 Octa Core,16,50
+907,Realme GT Neo 3 5G,4.65,83,8,5000,6.7,23880,Realme,128,80,Dimensity  8100 Octa Core,16,50
+908,Realme GT 5G,4.5,85,8,4500,6.43,23999,Realme,128,65,Snapdragon  888  Octa Core,16,64
+909,Realme 12 Pro 5G ,4.35,82,8,5000,6.7,23900,Realme,256,67,Snapdragon 6 Gen1 Octa Core,16,50
+910,Realme 12 Plus 5G ,4.2,84,8,5000,6.67,20615,Realme,256,67,Dimensity 7050 Octa Core,16,50
+911,Realme 11 Pro,4.75,83,8,5000,6.7,23999,Realme,128,67,Dimensity 7050 Octa Core,16,100
+912,Realme GT Neo 3 5G ,4.2,84,12,4500,6.7,23649,Realme,256,150,Dimensity  8100 Octa Core,16,50
+913,Realme 12 Pro Plus 5G ,4.4,86,8,5000,6.7,29004,Realme,256,67,Snapdragon 7s Gen2 Octa Core,32,64
+914,Realme P1 Pro 5G ,4.25,81,8,5000,6.7,22799,Realme,256,45,Snapdragon 6 Gen1 Octa Core,16,50
+915,Realme 12 Pro 5G ,4.1,83,12,5000,6.7,26999,Realme,256,67,Snapdragon 6 Gen1 Octa Core,16,50
+916,Realme 10 Pro Plus,4.45,82,6,5000,6.7,24150,Realme,128,67,Dimensity 1080 Octa Core,16,108
+917,Realme GT 6T,4.15,84,8,5500,6.74,29999,Realme,128,120,Snapdragon 7+ Gen3 Octa Core,32,50
+918,Realme 12 Pro Plus 5G ,4.15,86,12,5000,6.7,30990,Realme,256,67,Snapdragon 7s Gen2 Octa Core,32,64
+919,Realme GT 2 Pro 5G,4.55,88,8,5000,6.7,33900,Realme,128,65,Snapdragon 8 Gen1 Octa Core,32,50
+920,Realme GT 4,4.45,90,8,4800,6.8,54990,Realme,256,250,Snapdragon 8 Gen3 Octa Core,32,200
+921,Realme GT 2 Pro Master Edition,4.25,89,8,5000,6.7,54999,Realme,128,65,Snapdragon 8+ Gen1 Octa Core,32,50
+922,Realme GT2s Pro 5G,4.55,80,8,5000,6.7,52990,Realme,128,80,Snapdragon 8 Gen1 Plus Octa Core Processor,32,64
+926,Motorola Moto G24 Power ,4.55,78,8,6000,6.6,8999,Motorola,128,30,Helio G85 Octa Core,16,50
+927,Motorola Moto G32 ,4.75,80,8,5000,6.55,9999,Motorola,128,33,Snapdragon 680 Octa Core,16,50
+928,Motorola Moto G24 Power,4.6,75,4,6000,6.6,7999,Motorola,128,30,Helio G85 Octa Core,16,50
+929,Motorola Moto G04,4.35,65,4,5000,6.56,6999,Motorola,64,15,Unisoc T606 Octa Core,5,16
+930,Motorola Moto G9 Power,4.0,71,4,6000,6.78,6999,Motorola,64,52,Snapdragon 662 Octa Core,16,64
+931,Motorola Moto G04 ,4.1,71,8,5000,6.56,7999,Motorola,128,15,Unisoc T606 Octa Core,5,16
+932,Motorola Moto G31,4.35,75,4,5000,6.47,8499,Motorola,64,20,Helio  G85 Octa Core,13,50
+933,Motorola Moto G14,4.05,68,4,5000,6.5,8499,Motorola,128,20,Tiger T616 Octa Core,8,50
+934,Motorola Moto E13 ,4.3,73,8,5000,6.5,7998,Motorola,128,10,Tiger T606 Octa Core,5,13
+935,Motorola Moto E14,4.45,67,3,5000,6.56,6999,Motorola,64,18,Helio G36 Octa Core,8,13
+936,Motorola Moto E13 ,4.7,67,4,5000,6.5,6999,Motorola,64,10,Tiger T606 Octa Core,5,13
+937,Motorola Moto G13,4.2,74,4,5000,6.5,8999,Motorola,128,10,Helio G85 Octa Core,8,50
+938,Motorola One Power,4.15,70,4,5000,6.2,8999,Motorola,64,52,Snapdragon 636 Octa Core,12,16
+939,Motorola Moto G05,4.75,64,4,5000,6.67,8990,Motorola,128,18,Helio G91 Octa Core Processor,8,50
+940,Motorola Moto E22s,4.7,70,4,5000,6.5,6999,Motorola,64,10,Helio G37 Octa Core,8,16
+941,Motorola Moto E32,4.45,71,4,5000,6.5,6999,Motorola,64,10,Helio G37 Octa Core,8,50
+942,Motorola Moto G22,4.05,75,4,5000,6.53,7999,Motorola,64,20,Helio  G37 Octa Core,16,50
+943,Motorola Moto E7 Plus,4.4,69,4,5000,6.5,7090,Motorola,64,52,Snapdragon 460 Octa Core,8,48
+944,Motorola Moto G04s,4.05,70,4,5000,6.56,8990,Motorola,64,15,Unisoc T606 Octa Core,5,50
+945,Motorola Moto G24 4G,4.6,73,4,5000,6.56,9990,Motorola,128,15,Helio G85 Octa Core,8,50
+946,Motorola Moto G34 5G ,4.25,77,8,5000,6.5,11999,Motorola,128,18,Snapdragon 695 Octa Core,16,50
+947,Motorola Moto G34 5G,4.65,74,4,5000,6.5,10999,Motorola,128,18,Snapdragon 695 Octa Core,16,50
+948,Motorola Moto G24 5G,4.7,82,8,6000,6.58,11999,Motorola,128,18,Dimensity 1080 Octa Core,8,50
+949,Motorola Moto G32,4.15,75,4,5000,6.55,9999,Motorola,64,33,Snapdragon 680 Octa Core,16,50
+950,Motorola Moto G52,4.4,75,4,5000,6.6,10999,Motorola,64,33,Snapdragon 680 Octa Core,16,50
+951,Motorola Moto G Play 2023,4.6,66,3,5000,6.5,11999,Motorola,32,10,Helio G37 Octa Core,5,16
+952,Motorola Moto E22,4.15,69,4,4020,6.5,10990,Motorola,64,10,Helio G37 Octa Core,5,16
+954,Motorola Moto E32s ,4.0,67,4,5000,6.5,9999,Motorola,64,18,Helio G37 Octa Core,8,16
+955,Motorola Moto E35,4.0,70,4,5000,6.5,11999,Motorola,64,18,Unisoc T606 Octa Core,8,16
+956,Motorola Moto G30,4.6,75,4,5000,6.51,10990,Motorola,64,15,Snapdragon 662 Octa Core,13,64
+957,Motorola Moto G64 5G,4.4,84,8,6000,6.5,14999,Motorola,128,33,Dimensity 7025 Octa Core,16,50
+958,Motorola Moto G54 5G,4.3,84,8,6000,6.5,14999,Motorola,128,33,Dimensity 7020 Octa Core,16,50
+959,Motorola Moto G60,4.5,84,6,6000,6.78,14989,Motorola,128,20,Snapdragon  732G Octa Core,32,108
+960,Motorola Moto G40 Fusion,4.3,77,4,6000,6.78,12490,Motorola,64,20,Snapdragon  732G Octa Core,16,64
+961,Motorola Moto G64y 5G,4.5,83,8,6000,6.56,14990,Motorola,128,33,Dimensity 7020 Octa Core,16,50
+962,Motorola Moto G34,4.4,78,4,5000,6.58,14990,Motorola,128,67,Snapdragon 685 Octa Core,32,50
+963,Motorola Moto G15,4.55,73,6,5000,6.56,12990,Motorola,128,33,Helio G91 Octa Core Processor,16,64
+964,Motorola Moto G42 5G,4.35,78,4,5000,6.47,13990,Motorola,64,20,Snapdragon 4 Gen1 Octa Core,16,50
+965,Motorola Moto G33,4.0,81,8,5000,6.67,12990,Motorola,128,44,Snapdragon 680 Octa Core,16,64
+966,Motorola Moto G44,4.3,80,4,5000,6.67,13990,Motorola,128,33,Helio G99 Octa Core,32,50
+967,Motorola Moto G Play ,4.0,71,4,5000,6.5,12990,Motorola,64,15,Snapdragon 680 Octa Core,8,50
+968,Motorola Moto G52 5G,4.45,76,4,5000,6.6,14999,Motorola,64,33,Snapdragon 695 Octa Core,16,50
+969,Motorola Moto G12,4.35,70,4,5000,6.5,12999,Motorola,64,52,Snapdragon 460 Octa Core,8,48
+970,Motorola Moto G31 ,4.6,78,6,5000,6.47,12999,Motorola,128,20,Helio  G85 Octa Core,13,50
+971,Motorola Moto G Play 2022,4.6,65,3,5000,6.5,12990,Motorola,32,52,Helio G37 Octa Core,5,16
+972,Motorola Moto G64 5G ,4.1,85,12,6000,6.5,16999,Motorola,256,33,Dimensity 7025 Octa Core,16,50
+973,Motorola Moto G84 5G,4.15,86,12,5000,6.55,18928,Motorola,256,30,Snapdragon 695 Octa Core,16,50
+974,Motorola Moto G54 5G ,4.5,85,12,6000,6.5,16999,Motorola,256,33,Dimensity 7020 Octa Core,16,50
+975,Motorola Moto G82 ,4.3,86,8,5000,6.6,17990,Motorola,128,30,Snapdragon 695 Octa Core,16,50
+976,Motorola Moto Edge 40 Lite 5G,4.0,83,8,4020,6.28,19999,Motorola,128,33,Snapdragon 695 Octa Core,32,64
+977,Motorola Moto G66 5G,4.35,86,8,6000,6.6,19990,Motorola,128,33,Dimensity 7050 Octa Core,32,50
+978,Motorola Moto G74,4.05,86,8,5000,6.56,19990,Motorola,128,44,Dimensity 1080 Octa Core,32,64
+979,Motorola Moto G72 4G,4.65,82,6,5000,6.55,16999,Motorola,128,33,Helio  G99 Octa Core,16,108
+981,Motorola Moto G23,4.4,77,4,5000,6.5,19999,Motorola,128,30,Helio  G85 Octa Core,16,50
+982,Motorola Moto G56 5G,4.55,76,8,6000,6.5,15990,Motorola,128,44,Dimensity 7025 Octa Core Processor,16,50
+983,Motorola Moto G 5G 2024,4.1,75,4,5000,6.6,16990,Motorola,128,18,Snapdragon SM4375 Octa Core,8,50
+985,Motorola Moto G53y,4.35,74,4,5000,6.5,19999,Motorola,128,30,Snapdragon 480+ Octa Core,8,50
+986,Motorola Moto G 5G 2023,4.1,75,4,5000,6.5,19990,Motorola,128,15,Snapdragon  480+ Octa Core,8,48
+987,Motorola Edge 40 Neo,4.5,84,8,5000,6.55,20999,Motorola,128,68,Dimensity 7030 Octa Core,32,50
+988,Motorola Edge 40 Neo ,4.0,85,12,5000,6.55,22999,Motorola,256,68,Dimensity 7030 Octa Core,32,50
+989,Motorola Edge 40 5G,4.6,87,8,4400,6.55,26999,Motorola,256,68,Dimensity 8020 Octa Core,32,50
+990,Motorola Moto G85 5G,4.05,87,12,5000,6.56,20990,Motorola,256,67,Snapdragon 6 Gen1 Octa Core,32,50
+991,Motorola Moto Edge 50 Neo,4.55,78,12,5000,6.67,29999,Motorola,256,80,Dimensity 7200 Octa Core Processor,32,108
+992,Motorola Moto G86,4.55,86,8,5000,6.56,24999,Motorola,256,68,Dimensity 8200 Octa Core,32,50
+993,Motorola Moto G55,4.45,86,12,5000,6.55,29999,Motorola,256,30,Snapdragon  7+ Gen2 Octa Core,32,50
+994,Motorola Edge 30 5G ,4.65,85,8,4020,6.5,21999,Motorola,128,33,Snapdragon 778G+ Octa Core,32,50
+995,Motorola Moto G Stylus 5G,4.55,81,6,5000,6.8,28990,Motorola,256,52,Snapdragon 480 Octa Core,16,48
+996,Motorola Edge 30 5G,4.35,83,6,4020,6.5,24999,Motorola,128,33,Snapdragon 778G+ Octa Core,32,50
+997,Motorola Edge 20 5G,4.15,87,8,4000,6.7,22999,Motorola,128,30,Snapdragon  778G  Octa Core,32,108
+998,Motorola Moto G82 5G,4.7,83,6,5000,6.6,20990,Motorola,128,30,Snapdragon 695 Octa Core,16,50
+999,Motorola Moto Edge S30 5G,4.3,85,6,5000,6.8,23990,Motorola,128,33,Snapdragon 888+  Octa Core,16,108
+1000,Motorola Moto G Power 5G 2024,4.15,85,8,5000,6.7,25999,Motorola,128,30,Dimensity 7020 Octa Core,16,50
+1001,Motorola Moto Edge 50 Lite 5G,4.65,84,8,4500,6.58,29990,Motorola,128,44,Snapdragon  7 Gen1 Octa Core,32,50
+1002,Motorola Moto G 5G,3.9,82,6,5000,6.67,20999,Motorola,128,20,Snapdragon  750G  Octa Core,16,48
+1003,Motorola Edge 50 Pro 5G,4.7,87,8,4500,6.7,31999,Motorola,256,68,Snapdragon 7 Gen3 Octa Core,50,50
+1004,Motorola Edge 50 Fusion,4.65,85,8,5000,6.7,34990,Motorola,128,68,Snapdragon 7s Gen2 Octa Core,32,50
+1005,Motorola Edge 50 Pro ,4.4,88,12,4500,6.7,35999,Motorola,256,125,Snapdragon 7 Gen3 Octa Core,50,50
+1006,Motorola Moto G Stylus 5G 2024,4.75,87,8,5000,6.7,33499,Motorola,256,30,Snapdragon 6 Gen1 Octa Core,32,50
+1007,Motorola Edge 30 Fusion 5G,4.4,88,8,4400,6.55,30990,Motorola,128,68,Snapdragon 888+ Octa Core,32,50
+1008,Motorola Edge 30 Pro 5G,4.55,89,8,4800,6.7,39990,Motorola,128,68,Snapdragon 8 Gen1 Octa Core,60,50
+1009,Motorola Moto S40,4.15,71,6,4600,6.58,34990,Motorola,128,67,Dimensity 8020 Octa Core Processor,16,50
+1010,Motorola Moto X40,4.65,89,8,4600,6.7,39999,Motorola,128,125,Snapdragon 8 Gen2 Octa Core,60,50
+1011,Motorola Moto Edge 30 Neo,4.0,85,8,4020,6.28,31990,Motorola,128,68,Snapdragon 695 Octa Core,32,64
+1012,Motorola Edge X30 Champion Edition 5G,4.3,87,12,5000,6.7,37999,Motorola,512,68,Snapdragon 8 Gen1 Octa Core,60,50
+1013,Motorola Edge 2023,4.35,77,8,4400,6.6,39990,Motorola,256,68, Dimensity 7030 Octa Core Processor,32,50
+1014,Motorola Moto G Stylus 5G 2023,4.3,83,6,5000,6.6,32990,Motorola,256,20,Snapdragon  6 Gen 1 Octa Core,16,50
+1015,Motorola Moto S40 Pro,4.15,77,8,4700,6.67,39990,Motorola,128,80,Dimensity 8020 Octa Core Processor,32,108
+1016,Motorola Defy,4.2,85,8,5000,6.56,35999,Motorola,256,33,Snapdragon 778G Octa Core,32,50
+1017,Motorola Moto Edge S30 Pro,4.3,84,8,5000,6.67,34990,Motorola,128,68,Snapdragon 8 Gen1 Octa Core,16,64
+1018,Motorola Moto Edge 5G 2022,4.2,87,8,5000,6.6,39990,Motorola,256,30,Dimensity 1050 Octa Core,32,50
+1020,Motorola Moto X50 Ultra,4.65,92,12,5000,6.8,49990,Motorola,256,135,Snapdragon 8s Gen3 Octa Core,50,50
+1021,Motorola Moto X50,4.45,83,12,5000,6.78,49990,Motorola,256,125,Snapdragon 8+ Gen2 Octa Core Processor,50,50
+1023,Motorola Edge Plus,4.1,89,12,5000,6.7,49999,Motorola,256,18,Snapdragon  865  Octa Core,25,108
+1024,Motorola Edge 40 Fusion,4.4,88,8,4500,6.67,42990,Motorola,128,68,Snapdragon 8+ Gen1 Octa Core,32,50
+1025,Motorola ThinkPhone,4.75,89,8,5000,6.6,49990,Motorola,128,68,Snapdragon 8+ Gen1 Octa Core,32,50
+1026,Motorola Moto X30 Pro,4.75,91,8,4450,6.67,41990,Motorola,128,125,Snapdragon 8+ Gen1 Octa Core,60,200
+1027,Motorola Defy 2,4.4,81,6,5000,6.58,45990,Motorola,128,15,Dimensity 930 Octa Core,8,50
+1028,Motorola Moto Edge X30 5G ,4.25,91,12,5000,6.7,46999,Motorola,256,68,Snapdragon 8 Gen1 Octa Core,60,50
+1030,Motorola Edge 50,4.6,78,8,5000,6.67,55990,Motorola,256,80,Dimensity 9200 Octa Core Processor,32,64
+1031,Motorola Edge 60 Pro,4.15,84,12,4600,6.79,59990,Motorola,512,150,Snapdragon 8 Gen4 Octa Core Processor,60,50
+1033,Motorola Moto X60,4.15,84,12,5000,6.82,54990,Motorola,256,150,Snapdragon 8 Gen3 Octa Core Processor,50,100
+1034,Motorola Edge Plus 2023,4.0,91,8,5100,6.67,54990,Motorola,512,68,Snapdragon 8 Gen2 Octa Core,60,50
+1035,Motorola Moto Edge X30 Pro,4.3,92,8,4450,6.67,59990,Motorola,128,125,Snapdragon 8+ Gen1 Octa Core,60,200
+1036,Motorola Edge 30 Pro Ultra,4.2,90,8,5000,6.7,54990,Motorola,128,68,Snapdragon 8+ Gen1 Octa Core,60,200
+1037,Motorola Frontier 22 5G,4.05,90,8,4500,6.7,59990,Motorola,128,125,Snapdragon  8 Gen1 Octa Core,60,200
+1038,Motorola Edge 50 Ultra,4.35,93,12,4500,6.7,88990,Motorola,512,125,Snapdragon (4 nm) Octa Core,50,64
+1039,Motorola Edge 30 Ultra,4.55,92,8,4610,6.67,69999,Motorola,128,125,Snapdragon 8+ Gen1 Octa Core,60,200
+1041,Motorola Edge 60 Ultra,4.15,86,12,4600,6.82,69990,Motorola,512,150,Snapdragon 8 Gen4 Octa Core Processor,60,200
+1042,Motorola Rizr Rollable,4.1,86,12,3500,5.0,159990,Motorola,512,65,Snapdragon 8 Gen3 Octa Core,32,50
+1044,Motorola Edge 40 Pro 5G,4.4,92,12,4600,6.67,79990,Motorola,256,125,Snapdragon 8 Gen2 Octa Core,60,50
+1050,Motorola Frontier,4.05,90,8,4500,6.67,62990,Motorola,128,125,Snapdragon  8+ Gen1 Octa Core,60,200
+1053,OnePlus Clover,4.25,69,4,6000,6.52,14999,OnePlus,64,18,Snapdragon 460  Octa Core,8,13
+1054,OnePlus Nord CE 3 5G,4.7,84,8,5000,6.7,20000,OnePlus,128,80,Snapdragon  782G Octa Core,16,50
+1055,OnePlus Nord CE 3 Lite 5G,4.25,85,8,5000,6.72,16899,OnePlus,128,67,Snapdragon 695 5G Octa Core,16,108
+1056,OnePlus Nord CE 3 Lite 5G ,4.5,86,8,5000,6.72,18879,OnePlus,256,67,Snapdragon 695 5G Octa Core,16,108
+1057,OnePlus Nord CE 2 Lite 5G,4.0,81,6,5000,6.59,16134,OnePlus,128,33,Snapdragon 695 Octa Core,16,64
+1058,OnePlus Nord CE 2 5G,4.6,82,6,4500,6.43,18999,OnePlus,128,65,Dimensity 900 Octa Core,16,64
+1059,OnePlus Nord N200,4.45,75,4,5000,6.49,16990,OnePlus,64,18,Snapdragon  480  Octa Core,16,13
+1060,OnePlus Nord N30 SE,4.65,76,4,5000,6.72,18999,OnePlus,128,33,Dimensity 6020 Octa Core,8,50
+1061,OnePlus Nord Lite,4.15,77,8,4300,6.55,19999,OnePlus,128,30,Snapdragon 690 Octa Core,16,48
+1062,OnePlus Nord N300,4.3,75,4,5000,6.56,18990,OnePlus,64,33,Dimensity 810 5G Octa Core,16,48
+1063,OnePlus Nord CE 4 5G,4.2,83,8,5500,6.7,24454,OnePlus,128,100,Snapdragon 7 Gen3 Octa Core,16,50
+1064,OnePlus 11R 5G,4.4,85,8,5000,6.74,29999,OnePlus,128,100,Snapdragon 8+ Gen1 Octa Core,16,50
+1065,OnePlus Nord CE 3 5G,4.7,84,8,5000,6.7,20065,OnePlus,128,80,Snapdragon  782G Octa Core,16,50
+1066,OnePlus Nord 3 5G,4.15,85,8,5000,6.74,22592,OnePlus,128,80,Dimensity 9000 Octa Core,16,50
+1067,OnePlus Nord CE 4 Lite 5G,4.7,85,8,5000,6.74,20990,OnePlus,128,67,Snapdragon 6 Gen1 Octa Core,16,108
+1068,OnePlus Nord CE 4 5G ,4.0,84,8,5500,6.7,26674,OnePlus,256,100,Snapdragon 7 Gen3 Octa Core,16,50
+1069,OnePlus Nord 2T ,4.2,85,12,4500,6.43,22999,OnePlus,256,80,Dimensity  1300 Octa Core,32,50
+1070,OnePlus Ace 3V,4.6,84,12,5500,6.74,23999,OnePlus,256,100,Snapdragon 7+ Gen3 Octa Core,16,50
+1071,OnePlus Nord CE 2 5G ,4.4,85,8,4500,6.43,22499,OnePlus,128,65,Dimensity 900 Octa Core,16,64
+1072,OnePlus 9R 5G,4.45,86,8,4500,6.55,29990,OnePlus,128,65,Snapdragon 870 Octa Core,16,48
+1073,OnePlus 9R ,4.1,88,12,4500,6.55,29990,OnePlus,256,65,Snapdragon 870 Octa Core,16,48
+1074,OnePlus Nord CE 5 5G,4.1,87,8,5000,6.7,29990,OnePlus,256,80,Snapdragon 7 Gen3 Octa Core,32,50
+1077,OnePlus Nord CE 2 Lite 5G ,4.3,84,8,5000,6.59,20999,OnePlus,128,33,Snapdragon 695 Octa Core,16,64
+1078,OnePlus Nord CE 5 Lite 5G,4.05,78,8,5000,6.78,22990,OnePlus,256,80,Snapdragon 7 Gen2 Octa Core Processor,32,50
+1079,OnePlus Nord N40 SE,4.5,85,8,5000,6.78,24990,OnePlus,128,40,Snapdragon 778G Octa Core,16,108
+1080,OnePlus Nord N30 5G,4.4,87,8,5000,6.72,24990,OnePlus,128,67,Snapdragon 695 Octa Core,16,108
+1081,OnePlus Nord CE 2 Lite 5G ,4.1,85,8,5000,6.59,24999,OnePlus,256,33,Snapdragon 695 Octa Core,16,64
+1082,OnePlus 7T,4.35,84,8,3800,6.55,29990,OnePlus,128,30,Snapdragon  855+ Octa Core,16,48
+1083,OnePlus Nord 4 5G,4.35,85,8,5000,6.78,32999,OnePlus,128,120,Snapdragon 7+ Gen3 Octa Core,32,50
+1084,OnePlus 12R,4.75,85,8,5500,6.78,35990,OnePlus,128,100,Snapdragon 8 Gen2 Octa Core,16,50
+1085,OnePlus 11R ,4.55,87,16,5000,6.74,35609,OnePlus,256,100,Snapdragon 8+ Gen1 Octa Core,16,50
+1086,OnePlus 10 Pro 5G,4.65,89,8,5000,6.7,39888,OnePlus,128,80,Snapdragon  8 Gen1 Octa Core,32,50
+1087,OnePlus Ace 3,4.6,86,12,5500,6.78,30999,OnePlus,256,100,Snapdragon 8 Gen2 Octa Core,16,50
+1088,OnePlus 10R 5G,4.15,84,8,5000,6.7,30999,OnePlus,128,80,Dimensity 8100 Max Octa Core,16,50
+1089,OnePlus 10T,4.6,85,8,4800,6.7,33990,OnePlus,128,150,Snapdragon 8+ Gen1 Octa Core,16,50
+1090,OnePlus Nord 2 5G ,4.5,86,12,4500,6.43,34999,OnePlus,256,65,Dimensity  1200 AI Octa Core,32,50
+1091,OnePlus Nord 5,4.75,86,8,5000,6.57,34999,OnePlus,128,120,Dimensity 9200 Plus Octa Core,32,64
+1093,OnePlus Ace 2 Pro,4.45,86,12,5000,6.74,34990,OnePlus,256,150,Snapdragon 8 Gen2 Octa Core,16,50
+1094,OnePlus Nord 3T 5G,4.2,84,8,4500,6.43,29990,OnePlus,128,80,Dimensity 1300 Octa Core,32,50
+1095,OnePlus Ace 2,4.5,87,12,5000,6.74,34999,OnePlus,256,100,Snapdragon  8+ Gen1 Octa Core,16,50
+1096,OnePlus 12R ,4.6,87,16,5500,6.78,42437,OnePlus,256,100,Snapdragon 8 Gen2 Octa Core,16,50
+1097,OnePlus 11 5G,4.5,89,8,5000,6.7,43889,OnePlus,128,100,Snapdragon 8 Gen2 Octa Core,16,50
+1098,OnePlus 12R ,4.55,86,8,5500,6.78,40108,OnePlus,256,100,Snapdragon 8 Gen2 Octa Core,16,50
+1099,OnePlus 13R,4.0,87,8,5500,6.81,45990,OnePlus,256,120,Snapdragon 8 Gen3 Octa Core,32,50
+1100,OnePlus 10 Pro 5G ,4.05,90,12,5000,6.7,47998,OnePlus,256,80,Snapdragon  8 Gen1 Octa Core,32,50
+1101,OnePlus Ace 3 Pro,4.4,92,12,6100,6.82,49990,OnePlus,256,100,Snapdragon 8 Gen3 Octa Core,32,64
+1102,OnePlus 9 Pro ,4.0,89,12,4500,6.7,46990,OnePlus,256,65,Snapdragon 888 Octa Core,16,48
+1103,OnePlus 9 Pro,4.25,88,8,4500,6.7,41990,OnePlus,128,65,Snapdragon 888 Octa Core,16,48
+1104,OnePlus 12T,4.2,85,8,5000,6.72,49990,OnePlus,128,150,Snapdragon 8+ Gen1 Octa Core,16,50
+1105,OnePlus Ace Pro,4.35,86,12,4800,6.7,47990,OnePlus,256,150,Snapdragon 8+ Gen1 Octa Core,16,50
+1106,OnePlus 10T ,4.6,87,16,4800,6.7,43299,OnePlus,256,150,Snapdragon 8+ Gen1 Octa Core,16,50
+1108,OnePlus RT 5G,4.6,85,12,4500,6.62,42999,OnePlus,256,65,Snapdragon  888  Octa Core,16,50
+1109,OnePlus 12 5G,4.45,93,12,5400,6.82,58699,OnePlus,256,100,Snapdragon 8 Gen3 Octa Core,32,64
+1110,OnePlus 11 ,4.0,90,16,5000,6.7,50999,OnePlus,256,100,Snapdragon 8 Gen2 Octa Core,16,50
+1111,OnePlus 11 5G Marble Odyssey,4.35,90,16,5000,6.7,58990,OnePlus,256,100,Snapdragon 8 Gen2 Octa Core,16,50
+1112,OnePlus 11T,4.4,89,8,5000,6.7,59990,OnePlus,128,120,Snapdragon 8 Gen2 Octa Core,32,64
+1113,OnePlus 10T Marvel Edition,4.3,85,8,4800,6.7,55999,OnePlus,128,150,Snapdragon 8+ Gen1 Octa Core,16,50
+1114,OnePlus 10T ,4.45,87,12,4800,6.7,54999,OnePlus,256,150,Snapdragon 8+ Gen1 Octa Core,16,50
+1115,OnePlus 12 ,4.35,94,16,5400,6.82,63359,OnePlus,512,100,Snapdragon 8 Gen3 Octa Core,32,64
+1116,OnePlus 13,4.35,85,12,5500,6.8,64990,OnePlus,256,120,Snapdragon 8 Gen4 Octa Core Processor,50,50
+1117,OnePlus 12 Pro,4.3,93,12,4800,6.73,69999,OnePlus,256,100,Snapdragon 8 Gen3 Octa Core,32,108
+1119,OnePlus 13 Pro,4.15,86,12,4800,6.78,70990,OnePlus,256,200,Snapdragon  8 Gen4 Octa Core Processor,32,200
+1120,OnePlus 11 Pro,4.5,90,8,4500,6.7,69999,OnePlus,128,100,Snapdragon  8 Gen2 Octa Core,16,50
+1121,OnePlus 11 5G Marble Odyssey,4.35,90,16,5000,6.7,59990,OnePlus,256,100,Snapdragon 8 Gen2 Octa Core,16,50
+1123,OnePlus 10 Pro 5G ,4.45,92,12,5000,6.7,74999,OnePlus,512,80,Snapdragon  8 Gen1 Octa Core,32,50
+1125,OnePlus 11 Genshin Impact Limited Edition,4.15,90,16,5000,6.7,64990,OnePlus,256,100,Snapdragon 8 Gen2 Octa Core,16,50
+1126,OnePlus 11 Jupiter Rock Edition,4.15,90,16,5000,6.7,64990,OnePlus,256,100,Snapdragon 8 Gen2 Octa Core,16,50
+1127,OnePlus 10 Ultra 5G,4.7,90,8,5000,6.7,69999,OnePlus,128,80,Snapdragon  8+ Gen1 Octa Core,32,50
+1128,Xiaomi Redmi 13C 4G,4.5,73,4,5000,6.74,7699,Xiaomi,128,18,Helio G85 Octa Core,8,50
+1129,Xiaomi Redmi A3,4.4,64,3,5000,6.71,6999,Xiaomi,64,10,Helio G36 Octa Core,5,8
+1130,Xiaomi Redmi 13C ,4.6,75,6,5000,6.74,8499,Xiaomi,128,18,Helio G85 Octa Core,8,50
+1131,Xiaomi Redmi 14C,4.5,71,4,5000,6.78,9999,Xiaomi,64,52,Helio G99 Octa Core,8,50
+1132,Xiaomi Redmi 12 4G,4.5,75,4,5000,6.79,9190,Xiaomi,128,18,Helio G88 Octa Core,8,50
+1133,Xiaomi Redmi A2 ,4.7,66,4,5000,6.52,7900,Xiaomi,64,10,Helio G36 Octa Core,5,8
+1134,Xiaomi Redmi 10A ,4.5,66,4,5000,6.53,7689,Xiaomi,64,52,Helio  G25 Octa Core,5,13
+1135,Xiaomi Redmi 12 4G ,4.75,77,6,5000,6.79,9999,Xiaomi,128,18,Helio G88 Octa Core,8,50
+1136,Xiaomi Redmi A3 ,4.4,69,6,5000,6.71,8999,Xiaomi,128,10,Helio G36 Octa Core,5,8
+1137,Xiaomi Redmi A3 ,4.4,67,4,5000,6.71,7890,Xiaomi,128,10,Helio G36 Octa Core,5,8
+1138,Xiaomi Redmi 11 Prime ,4.4,76,6,5000,6.58,9998,Xiaomi,128,18,Helio G99 Octa Core,8,50
+1139,Xiaomi Redmi 10,4.6,71,4,6000,6.7,8990,Xiaomi,64,18,Snapdragon 680 Octa Core,5,50
+1140,Xiaomi Redmi Note 8 2021,4.1,75,4,4000,6.3,9990,Xiaomi,64,18,Helio G85 Octa Core,13,48
+1141,Xiaomi Redmi 12C ,4.05,74,6,5000,6.71,8499,Xiaomi,128,52,Helio  G85 Octa Core,5,50
+1142,Xiaomi Qin 2 Pro,4.0,46,2,2100,5.0,9990,Xiaomi,64,52,Unisoc SC9832E Quad Core,18,13
+1143,Xiaomi Redmi A2 Plus,4.25,66,4,5000,6.52,7990,Xiaomi,64,10,Helio G36 Octa Core,5,8
+1144,Xiaomi Redmi 9,4.35,68,4,5000,6.53,9999,Xiaomi,64,52,Helio G35 Octa Core,5,13
+1145,Xiaomi Redmi 12C ,4.05,72,4,5000,6.71,8980,Xiaomi,128,52,Helio  G85 Octa Core,5,50
+1146,Xiaomi Redmi 10A Sport,4.55,69,6,5000,6.53,7990,Xiaomi,128,52,Helio G25 Octa Core,5,13
+1147,Xiaomi Redmi 9A Sport,4.15,61,2,5000,6.53,7699,Xiaomi,32,52,Helio G25 Octa Core,5,13
+1148,Xiaomi Redmi Note 12 5G,3.9,77,4,5000,6.67,11159,Xiaomi,128,33,Snapdragon 4 Gen 1 Octa Core,13,48
+1149,Xiaomi Redmi 13C 5G,4.5,74,4,5000,6.74,10499,Xiaomi,128,18,Dimensity 6100 Plus Octa Core,5,50
+1150,Xiaomi Redmi 12 5G,4.55,75,4,5000,6.79,11350,Xiaomi,128,18,Snapdragon 4 Gen2 Octa Core,8,50
+1151,Xiaomi Redmi 13C 5G ,4.0,76,6,5000,6.74,11999,Xiaomi,128,18,Dimensity 6100 Plus Octa Core,5,50
+1152,Xiaomi Redmi 13C ,4.55,78,8,5000,6.74,10269,Xiaomi,256,18,Helio G85 Octa Core,8,50
+1153,Xiaomi Redmi Note 12 4G,4.7,79,6,5000,6.67,11489,Xiaomi,64,33,Snapdragon 685 Octa Core,13,50
+1154,Xiaomi Redmi Note 11 ,4.55,80,6,5000,6.43,11425,Xiaomi,128,33,Snapdragon  680 Octa Core,13,50
+1155,Xiaomi Redmi 12 4G ,4.75,77,6,5000,6.79,9998,Xiaomi,128,18,Helio G88 Octa Core,8,50
+1156,Xiaomi Redmi Note 12R,4.6,75,4,5000,6.79,11990,Xiaomi,128,18,Snapdragon 4 Gen2 Octa Core,5,50
+1157,Xiaomi Redmi 11 Prime 5G,4.45,74,4,5000,6.58,10490,Xiaomi,64,18,Dimensity 700 5G Octa Core,5,50
+1158,Xiaomi Mi A3,4.3,74,4,4030,6.08,11499,Xiaomi,64,18,Snapdragon  665 Octa Core,32,48
+1159,Xiaomi Redmi Note 11,4.5,76,4,5000,6.43,10999,Xiaomi,64,33,Snapdragon  680 Octa Core,13,50
+1160,Xiaomi Redmi 13R 5G,4.7,75,4,5000,6.74,11999,Xiaomi,128,18,Dimensity 6100 Plus Octa Core,5,50
+1161,Xiaomi Redmi 10 ,4.55,75,6,6000,6.7,10490,Xiaomi,128,18,Snapdragon 680 Octa Core,5,50
+1162,Xiaomi Redmi 10 Prime,4.5,74,4,6000,6.5,10990,Xiaomi,64,18,Helio G88 Octa Core,8,50
+1163,Xiaomi Redmi 10 Power,4.6,77,8,6000,6.7,10949,Xiaomi,128,18,Snapdragon 680 Octa Core,5,50
+1165,Xiaomi Redmi 12 5G ,4.6,80,8,5000,6.79,13999,Xiaomi,256,18,Snapdragon 4 Gen2 Octa Core,8,50
+1166,Xiaomi Redmi 12 5G ,4.75,77,6,5000,6.79,12120,Xiaomi,128,18,Snapdragon 4 Gen2 Octa Core,8,50
+1167,Xiaomi Redmi 13C 5G ,4.65,79,8,5000,6.74,13999,Xiaomi,256,18,Dimensity 6100 Plus Octa Core,5,50
+1168,Xiaomi Redmi Note 12 ,4.4,80,6,5000,6.67,12239,Xiaomi,128,33,Snapdragon 4 Gen 1 Octa Core,13,48
+1169,Xiaomi Redmi Note 11 ,4.55,80,6,5000,6.43,12428,Xiaomi,128,33,Snapdragon  680 Octa Core,13,50
+1170,Xiaomi Redmi Note 10S,4.4,78,6,5000,6.43,13490,Xiaomi,64,33,Helio G95 Octa Core,13,64
+1171,Xiaomi Redmi 13 5G,4.5,77,6,5000,6.82,12499,Xiaomi,128,33,Snapdragon 4 Gen2 Octa Core,8,64
+1172,Xiaomi Mi A4,4.05,76,4,4050,6.53,13999,Xiaomi,64,18,Snapdragon  712 Octa Core,32,48
+1173,Xiaomi Redmi Note 11R,4.05,73,4,5000,6.58,12990,Xiaomi,128,18,Dimensity 700 5G Octa Core,5,13
+1174,Xiaomi Redmi Note 10T 5G,4.55,75,4,5000,6.5,13990,Xiaomi,64,18,Dimensity 700  Octa Core,8,48
+1175,Xiaomi Redmi 9 Power ,4.35,77,6,6000,6.53,12990,Xiaomi,128,18,Snapdragon  662  Octa Core,8,48
+1176,Xiaomi Redmi Note 11E 5G,4.5,69,4,5000,6.58,13990,Xiaomi,128,18,Dimensity 700 5G Octa Core,5,50
+1177,Xiaomi Redmi Note 11S ,4.2,84,8,5000,6.43,13999,Xiaomi,128,33,Helio  G96 Octa Core,16,108
+1178,Xiaomi Redmi Note 8,4.25,74,4,4000,6.3,12990,Xiaomi,64,18,Snapdragon 665 Octa Core,13,48
+1179,Xiaomi Redmi Note 12 4G ,4.0,80,6,5000,6.67,13999,Xiaomi,128,33,Snapdragon 685 Octa Core,13,50
+1180,Xiaomi Redmi Note 12 Pro 4G,4.65,73,6,5000,6.67,14999,Xiaomi,128,67,Snapdragon 732G Octa Core,16,108
+1181,Xiaomi Redmi Note 13 5G,4.5,81,6,5000,6.67,15898,Xiaomi,128,33,Dimensity 6080 Octa Core,16,108
+1182,Xiaomi Redmi Note 13 5G ,4.55,84,8,5000,6.67,18377,Xiaomi,256,33,Dimensity 6080 Octa Core,16,108
+1183,Xiaomi Redmi Note 13 5G ,4.7,85,12,5000,6.67,20075,Xiaomi,256,33,Dimensity 6080 Octa Core,16,108
+1184,Xiaomi Redmi Note 14,4.35,75,4,6000,6.67,17990,Xiaomi,128,67,Helio G99 Octa Core,16,50
+1185,Xiaomi Redmi Note 12 ,4.2,83,8,5000,6.67,17975,Xiaomi,256,33,Snapdragon 4 Gen 1 Octa Core,13,48
+1186,Xiaomi Redmi Note 11 Pro Max 5G,4.05,83,6,5200,6.67,19999,Xiaomi,128,33,Snapdragon 778G Octa Core,32,108
+1187,Xiaomi Redmi Note 15,4.6,82,8,5000,6.73,15990,Xiaomi,128,80,Dimensity 6020 Octa Core,32,64
+1188,Xiaomi Redmi Note 11S ,4.2,84,8,5000,6.43,14999,Xiaomi,128,33,Helio  G96 Octa Core,16,108
+1189,Xiaomi Redmi Note 10 Pro ,4.1,81,6,5020,6.67,16890,Xiaomi,128,33,Snapdragon 732G  Octa Core,16,64
+1190,Xiaomi Redmi Note 13 4G,4.75,83,6,5000,6.67,15990,Xiaomi,128,33,Snapdragon 685 Octa Core,16,108
+1191,Xiaomi Redmi Note 11T 5G ,4.15,83,8,5000,6.6,18390,Xiaomi,128,33,Dimensity  810 5G Octa Core,16,50
+1192,Xiaomi Redmi Note 11 Pro 5G,4.0,81,6,5000,6.67,17990,Xiaomi,64,67,Snapdragon 695 Octa Core,16,108
+1193,Xiaomi Redmi Note 10 ,4.5,78,6,5000,6.43,15499,Xiaomi,128,33,Snapdragon 678 Octa Core,13,48
+1194,Xiaomi Redmi Note 9 Pro ,4.1,77,4,5020,6.67,15999,Xiaomi,128,18,Snapdragon 720G Octa Core,16,48
+1195,Xiaomi Redmi Note 12T Pro,4.25,85,8,5080,6.51,18499,Xiaomi,128,67,Dimensity 8200 Ultra  Octa Core,16,64
+1196,Xiaomi Redmi Note 11T Pro 5G,4.25,82,6,5080,6.6,19990,Xiaomi,128,67,Dimensity  8100 Octa Core,16,64
+1197,Xiaomi Redmi 10C ,4.6,73,4,6000,6.7,14990,Xiaomi,128,18,Snapdragon 680 Octa Core,5,50
+1198,Xiaomi Redmi Note 13S,4.4,78,6,5000,6.43,14999,Xiaomi,64,33,Snapdragon 690 Octa Core,16,50
+1199,Xiaomi Redmi Turbo 3,4.3,86,12,5000,6.67,23990,Xiaomi,256,90,Snapdragon 8s Gen3 Octa Core,20,50
+1200,Xiaomi Redmi Note 13 Pro 5G,4.1,84,8,5100,6.67,22297,Xiaomi,128,67,Snapdragon 7s Gen 2 Octa Core,16,200
+1201,Xiaomi Redmi Note 13 Pro Plus 5G,4.35,87,8,5000,6.67,28517,Xiaomi,256,120,Dimensity 7200 Ultra Octa Core,16,200
+1202,Xiaomi Redmi Note 15 Pro,4.65,76,8,5000,6.74,24990,Xiaomi,256,150,Dimensity 8020 Octa Core Processor,32,108
+1203,Xiaomi Redmi Note 13 Pro 5G ,4.7,85,8,5100,6.67,24329,Xiaomi,256,67,Snapdragon 7s Gen 2 Octa Core,16,200
+1204,Xiaomi Redmi Note 13 5G ,4.7,85,12,5000,6.67,20048,Xiaomi,256,33,Dimensity 6080 Octa Core,16,108
+1205,Xiaomi Redmi Note 13 Pro 5G ,4.5,86,12,5100,6.67,26479,Xiaomi,256,67,Snapdragon 7s Gen 2 Octa Core,16,200
+1206,Xiaomi Redmi Note 12 Turbo Harry Potter Edition,4.65,83,12,5000,6.67,27990,Xiaomi,256,67,Snapdragon 7+ Gen2 Octa Core,16,64
+1207,Xiaomi Redmi Note 12 Pro 5G,4.75,79,6,5000,6.67,24890,Xiaomi,128,67,Dimensity 1080 Octa Core,16,50
+1208,Xiaomi Redmi K70E,4.05,85,12,5500,6.67,23999,Xiaomi,256,90,Dimensity 8300 Ultra Octa Core,16,64
+1209,Xiaomi Redmi K70,4.35,85,12,5000,6.67,29990,Xiaomi,256,120,Snapdragon 8 Gen2 Octa Core,16,50
+1211,Xiaomi Mi 11X,4.55,80,6,4520,6.67,22499,Xiaomi,128,33,Snapdragon 870 Octa Core,20,48
+1212,Xiaomi Redmi K50i 5G,4.65,82,6,5080,6.6,27999,Xiaomi,128,67,Dimensity  8100 Octa Core,16,64
+1213,Xiaomi Redmi Note 12 Pro Plus,4.65,86,8,4980,6.67,27999,Xiaomi,256,120,Dimensity 1080 Octa Core,16,200
+1214,Xiaomi Redmi Note 12 Pro ,4.5,82,8,5000,6.67,23999,Xiaomi,256,67,Dimensity 1080 Octa Core,16,50
+1215,Xiaomi Mi 11 Lite NE 5G ,4.6,86,8,4250,6.55,24449,Xiaomi,128,33,Snapdragon  778G  Octa Core,20,64
+1216,Xiaomi Mi 11i 5G,4.0,81,6,5160,6.67,24999,Xiaomi,128,67,Dimensity  920 5G Octa Core,16,108
+1217,Xiaomi Redmi Note 13 Pro 4G,4.7,85,8,5000,6.67,23990,Xiaomi,256,67,Helio G99 Ultra Octa Core,16,200
+1218,Tecno Camon 30 Premier 5G,4.0,89,12,5000,6.77,34990,Tecno,512,70,Dimensity (4 nm) Octa Core,50,50
+1219,Tecno Phantom X2,4.5,85,8,5160,6.8,36898,Tecno,256,45,Dimensity 9000 Octa Core,32,64
+1220,Tecno Phantom X2 Pro,4.7,89,12,5160,6.8,44949,Tecno,256,45,Dimensity 9000 Octa Core,32,50
+1221,Tecno Phantom X3,4.5,86,12,5500,6.82,49990,Tecno,256,67,Dimensity 9200 Octa Core,32,50
+1222,Tecno Phantom X3 Pro,4.3,89,12,5500,6.82,54990,Tecno,256,67,Dimensity 9200 Plus Octa Core,32,50
+1224,Tecno Phantom X4,4.3,78,12,5500,6.83,52990,Tecno,256,80,Dimensity 9200 Plus Octa Core Processor,32,64
+1229,Tecno Phantom Ultimate,4.55,90,12,5000,7.11,99990,Tecno,256,66,Dimensity 9000 Plus Octa Core,32,50
+1231,Huawei Y7 ,4.5,57,3,4000,6.26,11990,Huawei,32,52,Snapdragon 450 Octa Core,8,13
+1235,Huawei Enjoy 50,4.35,66,6,6000,6.75,14990,Huawei,128,22,Kirin 710A Quad Core,8,13
+1236,Huawei Nova 9 SE,4.15,84,8,4000,6.78,19990,Huawei,128,66,Snapdragon  680 Octa Core,16,108
+1237,Huawei Enjoy 70 Pro,4.6,80,8,5000,6.7,16990,Huawei,128,40,Snapdragon 680 Octa Core,8,108
+1238,Huawei Y7a,4.55,75,4,5000,6.67,18499,Huawei,128,22,Kirin  710A Octa Core,8,48
+1242,Huawei Nova 12i,4.25,81,8,5000,6.7,24990,Huawei,256,40,Snapdragon (6 nm) Octa Core,8,108
+1243,Huawei Nova 12s,4.5,83,8,4500,6.7,26990,Huawei,256,66,Snapdragon 778G 4G Octa Core,60,50
+1244,Huawei Nova 12 SE,4.4,83,8,4500,6.67,24990,Huawei,256,66,Snapdragon 680 Octa Core,32,108
+1245,Huawei Nova Y91,4.65,80,8,7000,6.95,23990,Huawei,128,22,Snapdragon  680 Octa Core,8,50
+1247,Huawei Nova 11i,4.0,80,8,5000,6.8,23999,Huawei,128,40,Snapdragon 680 Octa Core,16,48
+1249,Huawei Nova 10 SE,4.75,84,8,4500,6.67,23999,Huawei,256,66,Sanpdragon 680 Octa Core,16,108
+1250,Huawei Nova 9 SE 5G,4.1,84,8,4000,6.78,29990,Huawei,128,66,Snapdragon  695 Octa Core,16,108
+1251,Huawei Nova Y72,4.6,76,8,6000,6.75,21990,Huawei,128,22,Kirin 710A Octa Core,8,50
+1253,Huawei Nova 11 SE,4.1,85,8,4500,6.67,22990,Huawei,256,66,Sanpdragon 680 Octa Core,32,100
+1254,Huawei Nova Y71,4.05,77,8,6000,6.75,20990,Huawei,128,22,Kirin 710A Octa Core,8,48
+1255,Huawei Enjoy 60X,4.3,78,8,7000,6.95,20990,Huawei,128,22,Snapdragon 680 Octa Core,8,50
+1257,Huawei Nova 10,4.25,82,8,4000,6.67,29990,Huawei,128,66,Snapdragon 778G Octa Core,60,50
+1258,Huawei Nova Y90,4.1,80,8,5000,6.7,22990,Huawei,128,40,Snapdragon  680 Octa Core,8,50
+1259,Huawei Y8p ,4.0,80,6,4000,6.3,22999,Huawei,128,52,Kirin  710F Octa Core,16,48
+1266,Huawei Nova 10 Pro,4.65,85,8,4500,6.78,42990,Huawei,128,100,Snapdragon  778G Octa Core,60,50
+1273,Huawei Pura 70 Ultra,4.75,92,16,5200,6.8,115990,Huawei,512,100,Kirin 9010 Octa Core,13,50
+1274,Huawei Pura 70 Pro,4.5,83,12,5050,6.8,74990,Huawei,256,100,Kirin 9010 Octa Core Processor,13,50
+1278,Huawei Pura 70,4.0,82,12,4900,6.6,63990,Huawei,256,66,Kirin 9000S Octa Core Processor,13,50
+1280,Huawei Mate 60 Pro,4.15,95,12,5000,6.82,79990,Huawei,256,88,Kirin 9000S Octa Core,13,50
+1281,Huawei Mate 50 Pro 5G,4.25,86,8,4500,6.76,99990,Huawei,256,66,Kirin 9000E Octa Core,13,64
+1284,Huawei Mate 60 RS Ultimate,4.25,96,16,5000,6.82,134990,Huawei,512,88,Kirin 9000S Octa Core,13,48
+1285,Huawei Mate 40 Pro 4G,4.3,90,8,4400,6.76,69990,Huawei,128,66,Kirin  9000 Octa Core,13,50
+1286,Huawei Mate 40 Pro Plus,4.55,94,12,4400,6.76,121999,Huawei,256,66,Kirin  9000 Octa Core,13,50
+1287,Huawei Mate 40 RS Porsche Design,4.3,94,12,4400,6.76,191999,Huawei,512,66,Kirin  9000 Octa Core,13,50
+1288,Huawei P40 Pro,4.65,92,8,4200,6.58,82990,Huawei,256,40,Kirin 990 Octa Core,32,50
+1289,Huawei Pura 80,4.5,85,12,4900,6.67,69990,Huawei,256,66,Kirin Octa Core Processor,16,108
+1293,Honor Play 40C,4.6,71,6,5200,6.56,9990,Honor,128,52,Snapdragon 480+ Octa Core,5,13
+1294,Honor X5,4.2,60,2,5000,6.5,8990,Honor,32,52,Helio G25 Octa Core,5,8
+1295,Honor Play 30,4.5,68,4,5000,6.5,9999,Honor,128,52,Snapdragon 480+ Octa Core,5,13
+1296,Honor Play 20a,4.75,70,6,5000,6.5,11999,Honor,128,52,Helio G85 Octa Core,5,13
+1297,Honor X5 Plus,4.25,61,2,5000,6.56,10990,Honor,32,52, Helio G36 Octa Core,5,13
+1298,Honor Play 6C,4.3,73,6,5000,6.5,11990,Honor,128,22,Snapdragon 480+ Octa Core,5,13
+1299,Honor X6s,4.75,70,4,5000,6.5,11999,Honor,64,10,Helio G25 Octa Core,5,50
+1300,Honor X6a,4.2,73,4,5200,6.56,12990,Honor,128,22, Helio G36 Octa Core,5,50
+1301,Honor X9 5G,4.05,80,8,4800,6.81,16999,Honor,128,66,Snapdragon 695 Octa Core,16,48
+1302,Honor X8b,4.55,84,8,4500,6.7,17990,Honor,128,35,Snapdragon 680 Octa Core,50,108
+1303,Honor X50i Plus,4.45,81,12,4500,6.7,18990,Honor,256,35,Dimensity 6080 Octa Core,8,108
+1304,Honor X8,4.2,76,6,4000,6.7,16999,Honor,128,22,Snapdragon  680 Octa Core,16,64
+1305,Honor X50i,4.7,80,8,4500,6.7,17990,Honor,256,35,Dimensity 6020 Octa Core,8,100
+1306,Honor Play 7T Pro,4.35,77,8,4000,6.7,17990,Honor,128,40,Dimensity 6020 Octa Core,8,50
+1307,Honor X40i,4.0,77,8,4000,6.7,18990,Honor,128,40,Dimensity 700 5G Octa Core,8,50
+1308,Honor 90 5G,4.1,89,8,5000,6.7,25499,Honor,256,66,Snapdragon 7 Gen 1 Accelerated Edition Octa Core,50,200
+1309,Honor X9B,4.1,84,8,5800,6.78,21999,Honor,256,35,Snapdragon 6 Gen1 Octa Core,16,108
+1310,Honor 60 SE 5G,4.05,75,8,4300,6.67,24990,Honor,128,66,Dimensity 900 Octa Core,16,64
+1311,Honor 90 Lite,4.35,82,8,4500,6.7,24990,Honor,256,35,Dimensity 6020 Octa Core,16,100
+1312,Honor X50 GT,4.55,84,12,5800,6.78,23999,Honor,256,35,Snapdragon 8+ Gen1 Octa Core,8,108
+1314,Honor X40GT,4.75,81,8,4800,6.7,24990,Honor,256,66,Snapdragon  888 Octa Core,16,50
+1315,Honor X40,4.15,76,6,5100,6.67,23990,Honor,128,40,Snapdragon 695 Octa Core,8,50
+1316,Honor X40 Max 5G,4.45,81,8,4500,7.09,24990,Honor,128,67,Dimensity 1050 Octa Core,8,64
+1317,Nothing Phone 2,4.0,88,8,4700,6.7,39999,Nothing,128,45,Snapdragon 8+ Gen1 Octa Core,32,50
+1318,itel P55 4G ,4.4,73,8,5000,6.6,7319,itel,128,18,Unisoc T606 Octa Core,8,50
+1319,itel S24,4.35,75,8,5000,6.6,10999,itel,128,18,Helio G91 Octa Core,8,108
+1320,itel P55 5G ,4.0,75,6,5000,6.6,10749,itel,128,18,Dimensity 6080 Octa Core,8,50
+1321,itel P55 5G,4.2,72,4,5000,6.6,10489,itel,64,18,Dimensity 6080 Octa Core,8,50
+1322,Itel P65 Plus,4.6,69,8,5000,6.67,10999,Itel,256,45,Unisoc T612 Octa Core Processor,16,50
+1323,itel S23 Plus,4.25,77,8,5000,6.78,14499,itel,256,18,Tiger T616 Octa Core,32,50
+1324,Lava Blaze 5G,4.7,73,4,5000,6.5,8799,Lava,128,52,Dimensity 700 5G Octa Core,8,50
+1325,Lava Blaze 5G ,4.65,77,8,5000,6.5,9799,Lava,128,52,Dimensity 700 5G Octa Core,8,50
+1326,Lava Yuva 4 Pro 5G,4.35,77,8,5000,6.58,9990,Lava,128,33,Dimensity 6080 Octa Core,16,50
+1327,Lava O2,4.6,75,8,5000,6.5,7999,Lava,128,18,Tiger T616 Octa Core,8,50
+1328,Lava Blaze 5G ,4.3,75,6,5000,6.5,9099,Lava,128,52,Dimensity 700 5G Octa Core,8,50
+1329,Lava Blaze 2 5G,4.25,72,4,5000,6.5,9999,Lava,64,18,Dimensity 6020 Octa Core,8,50
+1330,Lava Yuva 3,4.5,64,4,5000,6.5,6999,Lava,64,18,Unisoc T606 Octa Core,5,13
+1331,Lava Yuva 3 ,4.65,66,4,5000,6.5,7299,Lava,128,18,Unisoc T606 Octa Core,5,13
+1332,Lava Yuva 3 Pro,4.25,75,8,5000,6.5,8346,Lava,128,18,Tiger T616 Octa Core,8,50
+1333,Lava Yuva 2 Pro,4.3,65,4,5000,6.5,6999,Lava,64,10,Helio G37 Octa Core,5,13
+1334,Lava O3,4.15,72,6,5000,6.7,8990,Lava,128,33,Helio G96 Octa Core,16,48
+1335,Lava Yuva 4,4.35,71,6,5000,6.6,8499,Lava,128,18,Helio G85 Octa Core,8,50
+1336,Lava O1,4.1,63,4,5000,6.56,6999,Lava,64,18,Unisoc T606 Octa Core,5,13
+1337,Lava Blaze 2 Pro,4.6,75,8,5000,6.5,9999,Lava,128,18,Tiger   T616 Octa Core,8,50
+1338,Lava Blaze 2 4G,4.05,70,6,5000,6.5,7949,Lava,128,18,Tiger  T616  Octa Core,8,13
+1339,Lava Blaze Pro ,4.3,74,6,5000,6.5,8499,Lava,128,52,Helio G37 Octa Core,8,50
+1340,Lava X4,4.55,64,3,5000,6.6,7990,Lava,64,52,Helio G37 Octa Core,8,13
+1341,Lava Blaze NXT,4.25,66,4,5000,6.5,6999,Lava,64,52,Helio G37 Octa Core,8,13
+1342,Lava Z4 Plus,4.0,63,4,4000,6.51,9999,Lava,64,7,Helio G37 Octa Core Processor,16,50
+1343,Coolpad Cool 30 Pro,4.6,77,6,4500,6.7,23990,Coolpad,128,18,Dimensity 700 5G Octa Core,16,64
+1344,TCL 501,4.25,55,2,3000,6.0,7990,TCL,32,10,Helio G36 Octa Core,2,5
+1345,TCL 505,4.4,72,4,5010,6.75,9990,TCL,64,10,Helio G35 Octa Core,5,50
+1346,TCL 403,4.0,55,2,3000,6.0,7999,TCL,32,52,Helio A22 Quad Core,5,8
+1347,TCL 408,4.5,72,4,5000,6.6,9990,TCL,64,10,Helio G25 Octa Core,8,50
+1349,TCL Ion X,4.0,60,3,3000,6.0,8990,TCL,32,10,Helio G25 Octa Core,5,13
+1350,TCL 30 LE,4.05,60,3,3000,6.1,7990,TCL,32,52,Helio  A22 Quad Core,8,13
+1351,TCL 405,4.15,65,2,5000,6.6,10999,TCL,32,10,Helio G25 Octa Core,5,13
+1352,TCL 50 5G,4.65,79,8,5010,6.6,13999,TCL,128,18,Dimensity 700 Octa Core,8,50
+1353,TCL 50 LE,4.3,72,4,5010,6.6,13990,TCL,64,18,Helio G37 Octa Core,8,50
+1354,TCL 50 SE,4.45,75,4,5000,6.78,13999,TCL,128,33,Helio G88 Octa Core,8,50
+1355,TCL 40 XL,4.6,71,4,5000,6.75,12990,TCL,128,18,Helio G37 Octa Core,8,50
+1356,TCL 40 SE,4.3,74,4,5010,6.75,13990,TCL,128,18,Helio G37 Octa Core,8,50
+1357,TCL 20R 5G,4.65,67,4,4500,6.52,14990,TCL,64,52,Dimensity 700 5G Octa Core,8,13
+1358,TCL 40 XE,4.45,69,4,5000,6.56,13990,TCL,64,18,Dimensity 700 5G Octa Core,8,13
+1359,TCL 30 XL,4.65,73,6,5000,6.82,14499,TCL,64,52,Helio A25 Octa Core,13,50
+1360,TCL 50 XL 5G,4.6,78,6,5000,6.8,19990,TCL,128,33,Dimensity 7050 Octa Core,16,50
+1361,TCL 50 XE 5G,4.45,75,6,5010,6.6,15990,TCL,128,33,Dimensity 6080 Octa Core,8,50
+1362,TCL 40 NxtPaper,4.3,84,8,5010,6.78,17999,TCL,256,33,Helio G88 Octa Core,32,50
+1363,TCL 40 X,4.7,71,4,5000,6.56,15990,TCL,64,18,Dimensity 700 5G Octa Core,8,50
+1364,TCL Stylus 5G,4.7,76,4,4000,6.81,19990,TCL,128,18,Dimensity  700 5G Octa Core,13,50
+1365,TCL 40R,4.05,75,4,5000,6.6,18999,TCL,64,15,Dimensity 700 5G Octa Core,8,50
+1366,TCL 50 XL NxtPaper 5G,4.1,80,8,5000,6.8,24990,TCL,128,33,Dimensity 7050 Octa Core,16,50
+1367,TCL 50 XE NxtPaper 5G,4.0,80,6,5000,6.6,23990,TCL,256,18,Dimensity 6080 Octa Core,16,50
+1368,TCL 40 NxtPaper 5G,4.5,79,6,5000,6.6,22499,TCL,256,15,Dimensity 6020 Octa Core,8,50
